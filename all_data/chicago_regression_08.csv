@@ -1,0 +1,2822 @@
+,bedrooms,beds,price,neighborhood,accommodates,room_type
+107,3.0,5.0,379,Lake View,7,Entire home/apt
+108,4.0,5.0,479,Lake View,9,Entire home/apt
+109,4.0,5.0,479,Lake View,9,Entire home/apt
+110,1.0,1.0,75,Lake View,2,Entire home/apt
+111,1.0,1.0,75,Lake View,2,Private room
+112,1.0,4.0,154,Lake View,4,Private room
+114,3.0,3.0,299,Lake View,6,Entire home/apt
+115,3.0,4.0,379,Lake View,8,Entire home/apt
+116,2.0,2.0,295,Lake View,5,Entire home/apt
+117,1.0,1.0,75,Lake View,1,Private room
+118,3.0,3.0,375,Lake View,7,Entire home/apt
+119,1.0,2.0,79,Lake View,2,Private room
+120,2.0,2.0,132,Lake View,4,Entire home/apt
+121,1.0,1.0,100,Lake View,2,Entire home/apt
+122,3.0,3.0,221,Lake View,6,Entire home/apt
+123,1.0,1.0,80,Lake View,2,Private room
+124,1.0,1.0,100,Lake View,2,Private room
+125,1.0,1.0,105,Lake View,3,Entire home/apt
+126,1.0,2.0,146,Lake View,4,Entire home/apt
+127,1.0,1.0,99,Lake View,2,Private room
+128,2.0,2.0,121,Lake View,5,Entire home/apt
+129,2.0,2.0,356,Lake View,4,Entire home/apt
+130,1.0,1.0,199,Lake View,3,Entire home/apt
+131,1.0,1.0,72,Lake View,2,Private room
+132,1.0,2.0,110,Lake View,2,Entire home/apt
+133,3.0,3.0,314,Lake View,6,Entire home/apt
+134,2.0,3.0,98,Lake View,4,Entire home/apt
+135,1.0,1.0,161,Lake View,4,Entire home/apt
+136,3.0,3.0,156,Lake View,10,Entire home/apt
+137,1.0,2.0,90,Lake View,5,Entire home/apt
+138,3.0,3.0,141,Lake View,5,Entire home/apt
+139,3.0,4.0,400,Lake View,6,Entire home/apt
+140,1.0,1.0,110,Lake View,2,Private room
+141,2.0,2.0,200,Lake View,4,Entire home/apt
+142,1.0,2.0,110,Lake View,2,Private room
+143,1.0,1.0,75,Lake View,2,Private room
+144,1.0,1.0,129,Lake View,2,Private room
+145,3.0,5.0,156,Lake View,12,Entire home/apt
+146,2.0,3.0,313,Lake View,6,Entire home/apt
+147,2.0,2.0,128,Lake View,7,Entire home/apt
+148,1.0,1.0,120,Lake View,2,Entire home/apt
+149,2.0,3.0,125,Lake View,5,Entire home/apt
+151,3.0,6.0,329,Lake View,10,Entire home/apt
+152,2.0,2.0,157,Lake View,5,Entire home/apt
+153,3.0,4.0,283,Lake View,6,Entire home/apt
+154,1.0,1.0,165,Lake View,2,Private room
+155,1.0,2.0,157,Lake View,4,Entire home/apt
+156,4.0,6.0,150,Lake View,8,Entire home/apt
+157,2.0,2.0,139,Lake View,4,Entire home/apt
+158,1.0,1.0,164,Lake View,2,Entire home/apt
+159,2.0,2.0,144,Lake View,4,Entire home/apt
+160,3.0,3.0,119,Lake View,6,Entire home/apt
+161,2.0,2.0,108,Lake View,4,Entire home/apt
+162,3.0,3.0,200,Lake View,7,Entire home/apt
+163,6.0,9.0,1067,Lake View,16,Entire home/apt
+165,1.0,1.0,96,Lake View,2,Entire home/apt
+166,1.0,1.0,86,Lake View,1,Private room
+167,2.0,4.0,161,Lake View,7,Entire home/apt
+168,3.0,3.0,236,Lake View,6,Entire home/apt
+169,1.0,2.0,159,Lake View,4,Entire home/apt
+170,1.0,1.0,63,Lake View,1,Private room
+171,2.0,3.0,216,Lake View,5,Entire home/apt
+172,3.0,3.0,425,Lake View,4,Entire home/apt
+173,2.0,2.0,350,Lake View,4,Entire home/apt
+174,1.0,2.0,70,Lake View,2,Private room
+175,3.0,3.0,164,Lake View,6,Entire home/apt
+176,3.0,3.0,399,Lake View,7,Entire home/apt
+177,1.0,3.0,129,Lake View,3,Entire home/apt
+178,2.0,4.0,124,Lake View,6,Entire home/apt
+179,1.0,1.0,76,Lake View,2,Entire home/apt
+180,1.0,1.0,101,Lake View,1,Private room
+181,3.0,3.0,250,Lake View,11,Entire home/apt
+182,3.0,4.0,195,Lake View,6,Entire home/apt
+183,1.0,2.0,95,Lake View,2,Private room
+184,2.0,2.0,84,Lake View,6,Entire home/apt
+185,1.0,1.0,135,Lake View,4,Entire home/apt
+186,2.0,2.0,169,Lake View,4,Entire home/apt
+187,3.0,3.0,189,Lake View,7,Entire home/apt
+188,1.0,1.0,83,Lake View,2,Private room
+189,1.0,2.0,80,Lake View,4,Entire home/apt
+190,3.0,3.0,371,Lake View,12,Entire home/apt
+191,3.0,3.0,175,Lake View,6,Entire home/apt
+192,6.0,7.0,614,Lake View,13,Entire home/apt
+193,1.0,4.0,99,Lake View,4,Entire home/apt
+195,2.0,2.0,124,Lake View,4,Entire home/apt
+196,4.0,7.0,471,Lake View,12,Entire home/apt
+197,2.0,2.0,79,Lake View,4,Entire home/apt
+198,2.0,2.0,118,Lake View,4,Entire home/apt
+199,4.0,6.0,175,Lake View,8,Entire home/apt
+200,3.0,3.0,164,Lake View,6,Entire home/apt
+201,2.0,3.0,220,Lake View,6,Entire home/apt
+202,1.0,3.0,120,Lake View,4,Entire home/apt
+203,2.0,2.0,84,Lake View,4,Entire home/apt
+204,2.0,3.0,150,Lake View,7,Entire home/apt
+205,1.0,1.0,60,Lake View,1,Private room
+206,1.0,1.0,125,Lake View,3,Entire home/apt
+207,4.0,5.0,413,Lake View,14,Entire home/apt
+208,1.0,1.0,40,Lake View,1,Private room
+209,1.0,1.0,99,Lake View,2,Entire home/apt
+210,2.0,3.0,257,Lake View,6,Entire home/apt
+211,3.0,3.0,200,Lake View,7,Entire home/apt
+212,3.0,3.0,130,Lake View,6,Entire home/apt
+213,2.0,2.0,105,Lake View,5,Entire home/apt
+214,2.0,2.0,320,Lake View,4,Entire home/apt
+215,1.0,2.0,80,Lake View,2,Private room
+216,3.0,4.0,379,Lake View,10,Entire home/apt
+217,1.0,1.0,400,Lake View,4,Entire home/apt
+219,1.0,1.0,158,Lake View,2,Entire home/apt
+220,2.0,4.0,100,Lake View,4,Entire home/apt
+221,1.0,1.0,100,Lake View,4,Private room
+223,2.0,3.0,120,Lake View,5,Entire home/apt
+224,3.0,5.0,290,Lake View,6,Entire home/apt
+226,2.0,2.0,70,Lake View,4,Entire home/apt
+227,1.0,1.0,50,Lake View,3,Entire home/apt
+228,1.0,1.0,100,Lake View,1,Private room
+229,1.0,1.0,115,Lake View,3,Entire home/apt
+230,5.0,5.0,400,Lake View,10,Entire home/apt
+231,2.0,2.0,108,Lake View,4,Entire home/apt
+233,4.0,4.0,325,Lake View,16,Entire home/apt
+234,2.0,8.0,449,Lake View,12,Entire home/apt
+235,2.0,4.0,329,Lake View,6,Entire home/apt
+236,1.0,1.0,159,Lake View,2,Entire home/apt
+237,4.0,5.0,225,Lake View,8,Entire home/apt
+238,2.0,3.0,140,Lake View,4,Entire home/apt
+239,2.0,2.0,185,Lake View,4,Entire home/apt
+240,3.0,4.0,178,Lake View,7,Entire home/apt
+241,2.0,2.0,110,Lake View,6,Entire home/apt
+243,1.0,2.0,54,Lake View,3,Entire home/apt
+244,4.0,6.0,239,Lake View,12,Entire home/apt
+245,2.0,3.0,214,Lake View,7,Entire home/apt
+246,5.0,6.0,210,Lake View,8,Entire home/apt
+247,2.0,2.0,115,Lake View,3,Entire home/apt
+248,1.0,1.0,110,Lake View,2,Private room
+249,2.0,2.0,214,Lake View,4,Entire home/apt
+250,2.0,2.0,253,Lake View,4,Entire home/apt
+251,3.0,3.0,315,Lake View,6,Entire home/apt
+252,3.0,3.0,302,Lake View,6,Entire home/apt
+253,2.0,2.0,275,Lake View,5,Entire home/apt
+254,2.0,5.0,171,Lake View,8,Entire home/apt
+255,1.0,1.0,99,Lake View,2,Entire home/apt
+256,2.0,2.0,151,Lake View,4,Entire home/apt
+257,2.0,2.0,198,Lake View,4,Entire home/apt
+258,2.0,2.0,121,Lake View,4,Entire home/apt
+259,2.0,2.0,99,Lake View,5,Entire home/apt
+260,3.0,4.0,152,Lake View,10,Entire home/apt
+261,2.0,2.0,137,Lake View,4,Entire home/apt
+262,3.0,3.0,99,Lake View,6,Entire home/apt
+263,3.0,5.0,707,Lake View,8,Entire home/apt
+264,1.0,2.0,100,Lake View,4,Entire home/apt
+265,2.0,3.0,124,Lake View,6,Entire home/apt
+266,1.0,2.0,88,Lake View,4,Entire home/apt
+267,1.0,1.0,70,Lake View,2,Private room
+268,3.0,4.0,312,Lake View,6,Entire home/apt
+269,2.0,3.0,138,Lake View,6,Entire home/apt
+270,1.0,2.0,58,Lake View,4,Entire home/apt
+271,1.0,1.0,175,Lake View,2,Entire home/apt
+272,3.0,4.0,398,Lake View,6,Entire home/apt
+273,2.0,2.0,250,Lake View,4,Entire home/apt
+274,1.0,1.0,100,Lake View,2,Entire home/apt
+275,3.0,3.0,139,Lake View,6,Entire home/apt
+277,3.0,3.0,425,Lake View,6,Entire home/apt
+278,3.0,4.0,95,Lake View,6,Entire home/apt
+279,4.0,5.0,364,Lake View,8,Entire home/apt
+280,10.0,15.0,857,Lake View,16,Entire home/apt
+281,1.0,1.0,90,Lake View,4,Entire home/apt
+282,4.0,5.0,193,Lake View,12,Entire home/apt
+286,1.0,1.0,103,Lake View,6,Entire home/apt
+287,3.0,3.0,132,Lake View,5,Entire home/apt
+288,2.0,3.0,249,Lake View,6,Entire home/apt
+289,2.0,2.0,64,Lake View,4,Entire home/apt
+290,4.0,4.0,211,Lake View,8,Entire home/apt
+291,3.0,4.0,210,Lake View,8,Entire home/apt
+293,4.0,10.0,314,Lake View,16,Entire home/apt
+294,2.0,4.0,65,Lake View,8,Entire home/apt
+295,2.0,3.0,275,Lake View,4,Private room
+296,4.0,9.0,359,Lake View,15,Entire home/apt
+297,2.0,3.0,185,Lake View,5,Entire home/apt
+298,3.0,5.0,156,Lake View,6,Entire home/apt
+299,2.0,2.0,191,Lake View,6,Entire home/apt
+300,3.0,4.0,395,Lake View,7,Entire home/apt
+301,1.0,1.0,65,Lake View,2,Entire home/apt
+302,3.0,3.0,200,Lake View,6,Entire home/apt
+303,1.0,2.0,105,Lake View,4,Entire home/apt
+304,1.0,2.0,240,Lake View,4,Entire home/apt
+305,3.0,5.0,200,Lake View,7,Entire home/apt
+306,2.0,2.0,250,Lake View,5,Entire home/apt
+307,2.0,3.0,200,Lake View,5,Entire home/apt
+308,1.0,1.0,60,Lake View,2,Entire home/apt
+309,2.0,3.0,182,Lake View,6,Entire home/apt
+310,7.0,8.0,618,Lake View,16,Entire home/apt
+311,3.0,3.0,220,Lake View,4,Entire home/apt
+312,2.0,4.0,279,Lake View,6,Entire home/apt
+313,2.0,3.0,173,Lake View,6,Entire home/apt
+314,1.0,1.0,100,Lake View,1,Entire home/apt
+315,1.0,1.0,105,Lake View,2,Entire home/apt
+316,2.0,3.0,95,Lake View,4,Entire home/apt
+317,4.0,4.0,1109,Lake View,10,Entire home/apt
+318,3.0,3.0,182,Lake View,6,Entire home/apt
+319,3.0,3.0,185,Lake View,8,Entire home/apt
+320,3.0,4.0,116,Lake View,7,Entire home/apt
+321,2.0,2.0,110,Lake View,3,Entire home/apt
+322,1.0,1.0,110,Lake View,2,Entire home/apt
+323,3.0,4.0,164,Lake View,6,Entire home/apt
+324,2.0,2.0,100,Lake View,2,Entire home/apt
+325,3.0,4.0,168,Lake View,6,Entire home/apt
+326,2.0,3.0,121,Lake View,4,Entire home/apt
+327,1.0,1.0,99,Lake View,2,Private room
+328,1.0,1.0,140,Lake View,1,Entire home/apt
+329,3.0,3.0,364,Lake View,6,Entire home/apt
+330,2.0,2.0,113,Lake View,3,Entire home/apt
+331,1.0,2.0,106,Lake View,4,Entire home/apt
+333,1.0,1.0,100,Lake View,1,Entire home/apt
+334,1.0,1.0,82,Lake View,2,Entire home/apt
+335,4.0,4.0,295,Lake View,6,Entire home/apt
+336,1.0,1.0,137,Lake View,2,Entire home/apt
+338,1.0,1.0,190,Lake View,2,Entire home/apt
+339,2.0,2.0,129,Lake View,4,Private room
+341,1.0,1.0,50,Lake View,2,Private room
+342,4.0,9.0,250,Lake View,10,Entire home/apt
+343,2.0,3.0,214,Lake View,7,Entire home/apt
+344,1.0,2.0,96,Lake View,5,Entire home/apt
+345,5.0,13.0,574,Lake View,16,Entire home/apt
+346,2.0,2.0,114,Lake View,5,Entire home/apt
+347,2.0,2.0,97,Lake View,5,Entire home/apt
+349,3.0,5.0,156,Lake View,10,Entire home/apt
+350,3.0,3.0,207,Lake View,7,Entire home/apt
+351,1.0,1.0,42,Lake View,2,Private room
+352,1.0,1.0,90,Lake View,1,Entire home/apt
+353,1.0,1.0,40,Lake View,2,Private room
+354,1.0,1.0,37,Lake View,2,Private room
+355,1.0,2.0,75,Lake View,4,Private room
+356,3.0,4.0,229,Lake View,10,Entire home/apt
+357,1.0,1.0,65,Lake View,2,Entire home/apt
+358,1.0,1.0,40,Lake View,2,Private room
+359,4.0,5.0,522,Lake View,9,Entire home/apt
+360,2.0,2.0,177,Lake View,4,Entire home/apt
+361,5.0,5.0,543,Lake View,14,Entire home/apt
+362,2.0,2.0,171,Lake View,5,Entire home/apt
+364,1.0,1.0,101,Lake View,1,Entire home/apt
+366,2.0,2.0,131,Lake View,4,Entire home/apt
+367,1.0,1.0,48,Lake View,2,Private room
+368,2.0,2.0,174,Lake View,5,Entire home/apt
+370,2.0,2.0,250,Lake View,4,Entire home/apt
+371,2.0,2.0,264,Lake View,4,Entire home/apt
+372,1.0,1.0,44,Lake View,3,Private room
+373,2.0,2.0,72,Lake View,4,Entire home/apt
+374,1.0,1.0,61,Lake View,2,Entire home/apt
+375,1.0,1.0,57,Lake View,2,Entire home/apt
+376,1.0,1.0,60,Lake View,2,Entire home/apt
+377,1.0,1.0,54,Lake View,2,Entire home/apt
+378,1.0,1.0,58,Lake View,2,Entire home/apt
+379,2.0,2.0,72,Lake View,4,Entire home/apt
+380,2.0,3.0,76,Lake View,6,Entire home/apt
+381,2.0,2.0,142,Lake View,4,Entire home/apt
+382,4.0,10.0,314,Lake View,16,Entire home/apt
+384,2.0,3.0,268,Lake View,6,Entire home/apt
+385,2.0,2.0,124,Lake View,4,Entire home/apt
+386,1.0,1.0,63,Lake View,5,Entire home/apt
+387,1.0,1.0,136,Lake View,2,Entire home/apt
+388,2.0,2.0,450,Lake View,8,Entire home/apt
+389,4.0,7.0,629,Lake View,16,Entire home/apt
+390,1.0,1.0,120,Lake View,1,Entire home/apt
+391,2.0,2.0,91,Lake View,3,Entire home/apt
+392,1.0,2.0,31,Lake View,2,Private room
+393,9.0,9.0,662,Lake View,16,Private room
+394,2.0,2.0,195,Lake View,4,Entire home/apt
+395,3.0,4.0,91,Lake View,7,Entire home/apt
+397,1.0,1.0,85,Lake View,4,Entire home/apt
+398,2.0,2.0,96,Lake View,4,Entire home/apt
+399,1.0,1.0,107,Lake View,2,Entire home/apt
+400,4.0,5.0,665,Lake View,9,Entire home/apt
+402,1.0,1.0,58,Lake View,2,Entire home/apt
+403,2.0,2.0,72,Lake View,4,Entire home/apt
+404,1.0,1.0,63,Lake View,2,Entire home/apt
+405,1.0,1.0,106,Lake View,3,Entire home/apt
+406,1.0,1.0,74,Lake View,2,Entire home/apt
+407,5.0,7.0,970,Lake View,16,Entire home/apt
+408,1.0,1.0,145,Lake View,2,Entire home/apt
+409,1.0,1.0,149,Lake View,2,Entire home/apt
+411,1.0,1.0,112,Lake View,2,Entire home/apt
+412,2.0,2.0,135,Lake View,4,Entire home/apt
+413,1.0,2.0,139,Lake View,2,Entire home/apt
+414,4.0,5.0,226,Lake View,10,Entire home/apt
+415,1.0,1.0,63,Lake View,2,Entire home/apt
+417,4.0,4.0,255,Lake View,8,Entire home/apt
+418,1.0,1.0,80,Lake View,2,Entire home/apt
+420,4.0,5.0,335,Lake View,12,Entire home/apt
+421,1.0,2.0,314,Lake View,4,Entire home/apt
+422,3.0,3.0,93,Lake View,6,Entire home/apt
+423,2.0,2.0,65,Lake View,4,Entire home/apt
+424,1.0,1.0,113,Lake View,2,Entire home/apt
+426,1.0,1.0,71,Lake View,2,Entire home/apt
+427,2.0,2.0,174,Lake View,4,Entire home/apt
+428,1.0,1.0,155,Lake View,2,Entire home/apt
+430,2.0,2.0,68,Lake View,4,Entire home/apt
+431,4.0,4.0,350,Lake View,10,Entire home/apt
+432,4.0,4.0,204,Lake View,8,Entire home/apt
+433,2.0,2.0,214,Lake View,4,Entire home/apt
+434,3.0,3.0,175,Lake View,6,Entire home/apt
+435,3.0,4.0,224,Lake View,8,Entire home/apt
+436,2.0,3.0,164,Lake View,5,Entire home/apt
+437,4.0,7.0,626,Lake View,10,Entire home/apt
+438,1.0,2.0,70,Lake View,2,Entire home/apt
+439,1.0,3.0,105,Lake View,4,Entire home/apt
+441,2.0,2.0,182,Lake View,4,Entire home/apt
+442,2.0,5.0,187,Lake View,7,Entire home/apt
+443,2.0,2.0,156,Lake View,4,Entire home/apt
+444,1.0,1.0,114,Lake View,2,Private room
+445,5.0,6.0,561,Lake View,12,Entire home/apt
+446,2.0,2.0,95,Lake View,4,Entire home/apt
+447,4.0,4.0,221,Lake View,6,Entire home/apt
+448,2.0,2.0,166,Lake View,4,Entire home/apt
+449,2.0,2.0,138,Lake View,4,Entire home/apt
+450,1.0,1.0,146,Lake View,2,Entire home/apt
+451,3.0,3.0,83,Lake View,6,Entire home/apt
+452,1.0,1.0,60,Lake View,2,Private room
+453,1.0,1.0,147,Lake View,2,Entire home/apt
+454,2.0,2.0,154,Lake View,4,Entire home/apt
+455,2.0,2.0,74,Lake View,4,Entire home/apt
+456,3.0,3.0,93,Lake View,6,Entire home/apt
+457,1.0,1.0,140,Lake View,2,Entire home/apt
+458,1.0,1.0,79,Lake View,2,Entire home/apt
+459,1.0,1.0,136,Lake View,2,Entire home/apt
+460,2.0,2.0,163,Lake View,4,Entire home/apt
+461,2.0,2.0,196,Lake View,4,Entire home/apt
+462,2.0,2.0,135,Lake View,4,Entire home/apt
+463,1.0,1.0,57,Lake View,2,Entire home/apt
+464,1.0,1.0,67,Lake View,2,Entire home/apt
+466,1.0,1.0,111,Lake View,2,Entire home/apt
+468,2.0,1.0,155,Lake View,5,Entire home/apt
+469,2.0,2.0,117,Lake View,4,Entire home/apt
+470,2.0,2.0,110,Lake View,4,Entire home/apt
+471,2.0,2.0,215,Lake View,4,Entire home/apt
+472,2.0,2.0,149,Lake View,4,Entire home/apt
+473,2.0,2.0,71,Lake View,4,Entire home/apt
+474,2.0,2.0,272,Lake View,4,Entire home/apt
+475,2.0,2.0,272,Lake View,4,Entire home/apt
+476,2.0,2.0,272,Lake View,4,Entire home/apt
+477,3.0,4.0,300,Lake View,6,Entire home/apt
+478,3.0,5.0,179,Lake View,6,Entire home/apt
+479,5.0,7.0,321,Lake View,11,Entire home/apt
+480,1.0,1.0,58,Lake View,2,Entire home/apt
+481,1.0,1.0,200,Lake View,4,Entire home/apt
+482,2.0,2.0,75,Lake View,4,Entire home/apt
+483,1.0,1.0,56,Lake View,2,Entire home/apt
+484,1.0,1.0,195,Lake View,2,Private room
+485,2.0,2.0,67,Lake View,4,Entire home/apt
+486,2.0,3.0,353,Lake View,6,Entire home/apt
+487,2.0,3.0,389,Lake View,6,Entire home/apt
+488,1.0,1.0,83,Lake View,2,Entire home/apt
+489,2.0,2.0,180,Lake View,5,Entire home/apt
+490,2.0,2.0,244,Lake View,5,Entire home/apt
+491,1.0,1.0,43,Lake View,5,Private room
+492,1.0,1.0,57,Lake View,2,Entire home/apt
+493,2.0,2.0,189,Lake View,4,Entire home/apt
+494,1.0,1.0,55,Lake View,3,Private room
+495,3.0,3.0,117,Lake View,6,Entire home/apt
+496,1.0,2.0,70,Lake View,2,Private room
+497,2.0,2.0,64,Lake View,4,Entire home/apt
+498,1.0,1.0,104,Lake View,2,Entire home/apt
+499,2.0,2.0,72,Lake View,4,Entire home/apt
+500,3.0,3.0,118,Lake View,6,Entire home/apt
+501,6.0,10.0,409,Lake View,16,Entire home/apt
+502,1.0,1.0,48,Lake View,4,Private room
+503,1.0,1.0,146,Lake View,2,Entire home/apt
+504,1.0,2.0,75,Lake View,5,Private room
+505,1.0,1.0,65,Lake View,5,Private room
+506,4.0,3.0,160,Lake View,8,Entire home/apt
+507,2.0,2.0,316,Lake View,5,Entire home/apt
+508,1.0,1.0,92,Lake View,4,Entire home/apt
+509,4.0,9.0,407,Lake View,13,Entire home/apt
+510,2.0,2.0,177,Lake View,5,Entire home/apt
+511,5.0,5.0,826,Lake View,10,Entire home/apt
+512,3.0,5.0,499,Lake View,10,Entire home/apt
+513,4.0,3.0,250,Lake View,6,Entire home/apt
+514,1.0,2.0,52,Lake View,5,Private room
+515,1.0,1.0,47,Lake View,5,Private room
+516,1.0,1.0,77,Lake View,2,Entire home/apt
+517,1.0,2.0,44,Lake View,5,Private room
+518,1.0,1.0,56,Lake View,3,Private room
+519,2.0,2.0,136,Lake View,4,Entire home/apt
+520,2.0,2.0,79,Lake View,6,Entire home/apt
+521,3.0,3.0,104,Lake View,12,Entire home/apt
+522,1.0,1.0,209,Lake View,3,Entire home/apt
+523,1.0,2.0,125,Lake View,4,Entire home/apt
+524,2.0,3.0,202,Lake View,6,Entire home/apt
+525,2.0,4.0,271,Lake View,7,Entire home/apt
+526,1.0,1.0,74,Lake View,2,Entire home/apt
+527,3.0,3.0,292,Lake View,6,Entire home/apt
+528,3.0,3.0,243,Lake View,6,Entire home/apt
+529,3.0,3.0,219,Lake View,6,Entire home/apt
+530,4.0,4.0,172,Lake View,8,Entire home/apt
+531,1.0,3.0,129,Lake View,6,Entire home/apt
+532,1.0,1.0,57,Lake View,2,Entire home/apt
+533,1.0,1.0,128,Lake View,4,Entire home/apt
+534,2.0,2.0,198,Lake View,4,Entire home/apt
+535,4.0,4.0,199,Lake View,6,Entire home/apt
+536,3.0,4.0,77,Lake View,10,Entire home/apt
+537,1.0,1.0,57,Lake View,2,Entire home/apt
+538,1.0,1.0,57,Lake View,2,Entire home/apt
+539,1.0,1.0,57,Lake View,2,Entire home/apt
+540,1.0,1.0,65,Lake View,2,Entire home/apt
+541,2.0,2.0,72,Lake View,4,Entire home/apt
+542,2.0,2.0,70,Lake View,4,Entire home/apt
+544,2.0,2.0,60,Lake View,4,Entire home/apt
+546,4.0,8.0,355,Lake View,14,Entire home/apt
+548,1.0,2.0,145,Lake View,3,Entire home/apt
+549,3.0,3.0,93,Lake View,6,Entire home/apt
+550,1.0,1.0,57,Lake View,2,Entire home/apt
+552,1.0,1.0,57,Lake View,2,Entire home/apt
+553,1.0,1.0,62,Lake View,2,Entire home/apt
+554,1.0,1.0,60,Lake View,2,Entire home/apt
+555,2.0,3.0,65,Lake View,6,Entire home/apt
+556,1.0,1.0,57,Lake View,2,Entire home/apt
+557,2.0,2.0,72,Lake View,4,Entire home/apt
+560,2.0,2.0,163,Lake View,4,Entire home/apt
+561,2.0,2.0,116,Lake View,4,Entire home/apt
+562,2.0,2.0,159,Lake View,4,Entire home/apt
+563,1.0,1.0,220,Lake View,2,Entire home/apt
+564,3.0,4.0,236,Lake View,7,Entire home/apt
+565,1.0,1.0,77,Lake View,2,Entire home/apt
+566,1.0,3.0,146,Lake View,5,Entire home/apt
+567,3.0,4.0,169,Lake View,8,Entire home/apt
+568,2.0,2.0,272,Lake View,4,Entire home/apt
+569,2.0,2.0,272,Lake View,4,Entire home/apt
+571,3.0,3.0,286,Lake View,6,Entire home/apt
+572,2.0,2.0,110,Lake View,4,Entire home/apt
+573,3.0,3.0,173,Lake View,6,Entire home/apt
+574,3.0,3.0,274,Lake View,10,Entire home/apt
+575,1.0,1.0,195,Lake View,2,Entire home/apt
+576,3.0,3.0,93,Lake View,6,Entire home/apt
+577,2.0,2.0,70,Lake View,4,Entire home/apt
+578,1.0,1.0,48,Lake View,2,Entire home/apt
+579,1.0,1.0,69,Lake View,2,Entire home/apt
+580,1.0,1.0,58,Lake View,2,Entire home/apt
+581,2.0,2.0,116,Lake View,4,Entire home/apt
+582,3.0,3.0,171,Lake View,6,Entire home/apt
+583,1.0,1.0,65,Lake View,2,Private room
+585,1.0,1.0,57,Lake View,2,Entire home/apt
+586,1.0,1.0,59,Lake View,2,Entire home/apt
+587,1.0,1.0,68,Lake View,2,Entire home/apt
+588,1.0,1.0,61,Lake View,2,Entire home/apt
+589,1.0,1.0,57,Lake View,2,Entire home/apt
+590,2.0,2.0,68,Lake View,4,Entire home/apt
+592,1.0,1.0,57,Lake View,2,Entire home/apt
+593,1.0,1.0,61,Lake View,2,Entire home/apt
+594,2.0,2.0,212,Lake View,4,Entire home/apt
+595,2.0,2.0,291,Lake View,4,Entire home/apt
+596,3.0,4.0,208,Lake View,6,Entire home/apt
+597,2.0,2.0,272,Lake View,4,Entire home/apt
+598,1.0,1.0,58,Lake View,2,Entire home/apt
+599,2.0,2.0,72,Lake View,4,Entire home/apt
+601,1.0,1.0,100,Lake View,2,Entire home/apt
+602,1.0,1.0,61,Lake View,2,Entire home/apt
+603,3.0,5.0,286,Lake View,10,Entire home/apt
+604,3.0,6.0,640,Lake View,12,Entire home/apt
+606,2.0,4.0,125,Lake View,7,Entire home/apt
+607,1.0,1.0,35,Lake View,2,Private room
+608,2.0,2.0,106,Lake View,4,Entire home/apt
+610,1.0,1.0,163,Lake View,2,Entire home/apt
+611,2.0,2.0,75,Lake View,4,Entire home/apt
+612,2.0,2.0,65,Lake View,4,Entire home/apt
+613,3.0,4.0,160,Lake View,7,Entire home/apt
+614,1.0,1.0,150,Lake View,4,Entire home/apt
+617,1.0,1.0,141,Lake View,4,Entire home/apt
+618,3.0,3.0,411,Lake View,6,Entire home/apt
+619,2.0,2.0,259,Lake View,5,Entire home/apt
+620,3.0,3.0,93,Lake View,6,Entire home/apt
+621,3.0,3.0,83,Lake View,6,Entire home/apt
+623,1.0,1.0,44,Lake View,4,Private room
+624,1.0,1.0,36,Lake View,5,Private room
+625,1.0,1.0,44,Lake View,3,Private room
+626,2.0,2.0,111,Lake View,6,Entire home/apt
+627,2.0,2.0,125,Lake View,6,Entire home/apt
+628,3.0,4.0,126,Lake View,10,Entire home/apt
+629,1.0,1.0,61,Lake View,2,Entire home/apt
+630,1.0,2.0,159,Lake View,4,Entire home/apt
+631,1.0,1.0,121,Lake View,2,Entire home/apt
+633,1.0,1.0,115,Lake View,2,Entire home/apt
+634,4.0,5.0,281,Lake View,8,Entire home/apt
+635,1.0,1.0,94,Lake View,4,Entire home/apt
+638,2.0,2.0,159,Lake View,4,Entire home/apt
+639,1.0,2.0,59,Lake View,4,Entire home/apt
+640,2.0,2.0,72,Lake View,4,Entire home/apt
+641,1.0,1.0,61,Lake View,2,Entire home/apt
+643,2.0,2.0,189,Lake View,5,Entire home/apt
+644,2.0,2.0,157,Lake View,5,Entire home/apt
+647,4.0,5.0,227,Lake View,10,Entire home/apt
+648,4.0,5.0,227,Lake View,8,Entire home/apt
+649,1.0,1.0,159,Lake View,3,Entire home/apt
+650,2.0,2.0,175,Lake View,4,Entire home/apt
+652,4.0,4.0,118,Lake View,8,Entire home/apt
+654,2.0,2.0,63,Lake View,4,Entire home/apt
+655,2.0,2.0,72,Lake View,3,Entire home/apt
+656,2.0,2.0,213,Lake View,4,Entire home/apt
+657,1.0,1.0,61,Lake View,2,Entire home/apt
+658,1.0,1.0,61,Lake View,2,Entire home/apt
+660,2.0,2.0,69,Lake View,4,Entire home/apt
+661,1.0,1.0,47,Lake View,1,Private room
+662,1.0,1.0,59,Lake View,2,Private room
+663,1.0,1.0,47,Lake View,1,Private room
+664,3.0,3.0,138,Lake View,6,Entire home/apt
+665,4.0,8.0,800,Lake View,12,Entire home/apt
+666,2.0,3.0,75,Lake View,4,Entire home/apt
+668,3.0,3.0,200,Lake View,6,Entire home/apt
+672,3.0,8.0,569,Lake View,13,Entire home/apt
+673,2.0,2.0,70,Lake View,4,Entire home/apt
+674,2.0,3.0,125,Lake View,6,Entire home/apt
+675,2.0,3.0,127,Lake View,6,Entire home/apt
+676,2.0,2.0,98,Lake View,4,Private room
+677,1.0,1.0,57,Lake View,2,Entire home/apt
+678,2.0,2.0,70,Lake View,4,Entire home/apt
+679,2.0,2.0,70,Lake View,4,Entire home/apt
+680,2.0,2.0,70,Lake View,4,Entire home/apt
+681,2.0,2.0,70,Lake View,4,Entire home/apt
+682,2.0,2.0,70,Lake View,4,Entire home/apt
+683,3.0,4.0,500,Lake View,8,Entire home/apt
+684,1.0,1.0,83,Lake View,2,Entire home/apt
+685,3.0,3.0,167,Lake View,7,Entire home/apt
+686,2.0,2.0,72,Lake View,4,Entire home/apt
+687,3.0,3.0,98,Lake View,6,Entire home/apt
+689,3.0,3.0,234,Lake View,7,Entire home/apt
+690,2.0,2.0,94,Lake View,6,Entire home/apt
+691,4.0,5.0,329,Lake View,12,Entire home/apt
+692,3.0,4.0,203,Lake View,6,Entire home/apt
+693,1.0,2.0,88,Lake View,4,Entire home/apt
+694,3.0,3.0,297,Lake View,8,Entire home/apt
+695,1.0,1.0,89,Lake View,2,Entire home/apt
+696,2.0,2.0,115,Lake View,4,Entire home/apt
+697,1.0,1.0,83,Lake View,2,Entire home/apt
+698,4.0,5.0,196,Lake View,8,Entire home/apt
+699,1.0,2.0,97,Lake View,4,Entire home/apt
+700,2.0,2.0,211,Lake View,4,Entire home/apt
+701,1.0,1.0,35,Lake View,1,Private room
+702,2.0,2.0,136,Lake View,4,Entire home/apt
+703,3.0,4.0,189,Lake View,8,Entire home/apt
+705,2.0,2.0,250,Lake View,6,Entire home/apt
+706,2.0,2.0,90,Lake View,4,Entire home/apt
+707,1.0,1.0,74,Lake View,2,Entire home/apt
+708,3.0,5.0,390,Lake View,6,Entire home/apt
+710,6.0,10.0,282,Lake View,16,Entire home/apt
+711,1.0,1.0,240,Lake View,6,Entire home/apt
+712,2.0,2.0,142,Lake View,4,Entire home/apt
+713,2.0,2.0,182,Lake View,4,Entire home/apt
+714,1.0,1.0,159,Lake View,1,Private room
+715,1.0,1.0,93,Lake View,2,Entire home/apt
+716,1.0,1.0,120,Lake View,2,Private room
+717,1.0,1.0,75,Lake View,2,Private room
+718,1.0,2.0,64,Lake View,2,Private room
+719,1.0,1.0,75,Lake View,2,Private room
+720,2.0,2.0,176,Lake View,4,Entire home/apt
+721,1.0,2.0,279,Lake View,4,Entire home/apt
+1545,1.0,1.0,51,Logan Square,2,Private room
+1546,1.0,1.0,78,Logan Square,3,Entire home/apt
+1547,2.0,3.0,230,Logan Square,6,Entire home/apt
+1548,6.0,9.0,1234,Logan Square,16,Entire home/apt
+1549,1.0,2.0,70,Logan Square,2,Entire home/apt
+1550,2.0,2.0,250,Logan Square,4,Entire home/apt
+1551,1.0,2.0,51,Logan Square,3,Private room
+1552,1.0,2.0,51,Logan Square,3,Private room
+1553,1.0,1.0,44,Logan Square,4,Private room
+1554,1.0,1.0,36,Logan Square,4,Private room
+1555,3.0,3.0,175,Logan Square,6,Entire home/apt
+1556,1.0,1.0,185,Logan Square,2,Entire home/apt
+1557,3.0,3.0,500,Logan Square,6,Entire home/apt
+1558,1.0,1.0,129,Logan Square,2,Private room
+1559,2.0,2.0,175,Logan Square,6,Entire home/apt
+1561,2.0,3.0,105,Logan Square,4,Entire home/apt
+1562,1.0,2.0,52,Logan Square,3,Private room
+1563,1.0,1.0,186,Logan Square,2,Entire home/apt
+1564,1.0,1.0,95,Logan Square,7,Entire home/apt
+1565,3.0,3.0,150,Logan Square,2,Private room
+1566,3.0,4.0,100,Logan Square,6,Entire home/apt
+1567,3.0,3.0,204,Logan Square,6,Entire home/apt
+1568,1.0,2.0,76,Logan Square,2,Private room
+1569,2.0,2.0,110,Logan Square,4,Entire home/apt
+1570,1.0,1.0,84,Logan Square,2,Private room
+1571,1.0,3.0,125,Logan Square,6,Entire home/apt
+1572,1.0,2.0,46,Logan Square,2,Private room
+1573,2.0,2.0,165,Logan Square,4,Entire home/apt
+1574,1.0,1.0,100,Logan Square,4,Entire home/apt
+1575,2.0,2.0,74,Logan Square,4,Entire home/apt
+1576,2.0,2.0,104,Logan Square,4,Entire home/apt
+1577,1.0,1.0,110,Logan Square,2,Entire home/apt
+1578,2.0,2.0,69,Logan Square,5,Entire home/apt
+1579,1.0,1.0,69,Logan Square,2,Entire home/apt
+1580,4.0,4.0,224,Logan Square,12,Entire home/apt
+1581,1.0,1.0,155,Logan Square,4,Entire home/apt
+1582,5.0,6.0,388,Logan Square,11,Entire home/apt
+1583,4.0,4.0,329,Logan Square,12,Entire home/apt
+1584,1.0,1.0,42,Logan Square,4,Private room
+1585,1.0,2.0,54,Logan Square,6,Private room
+1587,1.0,1.0,97,Logan Square,2,Entire home/apt
+1588,1.0,2.0,76,Logan Square,4,Entire home/apt
+1589,2.0,2.0,40,Logan Square,4,Entire home/apt
+1590,2.0,2.0,95,Logan Square,5,Entire home/apt
+1591,2.0,9.0,143,Logan Square,12,Entire home/apt
+1592,3.0,6.0,199,Logan Square,8,Entire home/apt
+1593,4.0,8.0,269,Logan Square,10,Entire home/apt
+1594,2.0,3.0,115,Logan Square,5,Entire home/apt
+1595,2.0,2.0,160,Logan Square,5,Entire home/apt
+1596,3.0,3.0,179,Logan Square,5,Entire home/apt
+1597,1.0,2.0,88,Logan Square,3,Entire home/apt
+1598,3.0,4.0,231,Logan Square,6,Entire home/apt
+1599,2.0,2.0,124,Logan Square,2,Entire home/apt
+1600,1.0,1.0,60,Logan Square,2,Private room
+1601,1.0,1.0,28,Logan Square,2,Entire home/apt
+1602,2.0,2.0,102,Logan Square,4,Entire home/apt
+1603,1.0,1.0,90,Logan Square,2,Entire home/apt
+1604,2.0,3.0,99,Logan Square,5,Entire home/apt
+1605,2.0,2.0,99,Logan Square,2,Entire home/apt
+1606,2.0,2.0,155,Logan Square,3,Entire home/apt
+1607,1.0,1.0,82,Logan Square,2,Private room
+1608,1.0,1.0,75,Logan Square,2,Private room
+1609,1.0,1.0,73,Logan Square,2,Entire home/apt
+1610,1.0,1.0,55,Logan Square,2,Private room
+1611,1.0,1.0,115,Logan Square,2,Private room
+1613,3.0,3.0,115,Logan Square,6,Entire home/apt
+1614,1.0,1.0,85,Logan Square,4,Private room
+1615,2.0,2.0,114,Logan Square,4,Entire home/apt
+1616,3.0,3.0,124,Logan Square,6,Entire home/apt
+1618,1.0,1.0,137,Logan Square,2,Entire home/apt
+1620,1.0,1.0,81,Logan Square,2,Entire home/apt
+1622,2.0,2.0,211,Logan Square,4,Entire home/apt
+1623,2.0,2.0,97,Logan Square,4,Entire home/apt
+1624,3.0,4.0,99,Logan Square,6,Entire home/apt
+1625,3.0,4.0,150,Logan Square,5,Entire home/apt
+1626,3.0,3.0,109,Logan Square,4,Entire home/apt
+1627,2.0,2.0,124,Logan Square,4,Entire home/apt
+1628,3.0,3.0,147,Logan Square,5,Entire home/apt
+1629,1.0,1.0,108,Logan Square,2,Private room
+1630,1.0,1.0,29,Logan Square,2,Private room
+1631,3.0,3.0,92,Logan Square,6,Entire home/apt
+1632,1.0,1.0,89,Logan Square,3,Entire home/apt
+1633,1.0,1.0,251,Logan Square,2,Entire home/apt
+1634,1.0,1.0,99,Logan Square,2,Private room
+1635,1.0,1.0,98,Logan Square,4,Private room
+1636,4.0,5.0,599,Logan Square,11,Entire home/apt
+1637,2.0,2.0,139,Logan Square,5,Entire home/apt
+1638,3.0,4.0,129,Logan Square,6,Entire home/apt
+1639,1.0,1.0,99,Logan Square,2,Private room
+1640,1.0,1.0,60,Logan Square,2,Private room
+1641,1.0,1.0,156,Logan Square,2,Entire home/apt
+1642,2.0,2.0,200,Logan Square,4,Entire home/apt
+1643,2.0,2.0,93,Logan Square,4,Entire home/apt
+1644,3.0,7.0,527,Logan Square,8,Entire home/apt
+1645,1.0,1.0,112,Logan Square,3,Entire home/apt
+1646,1.0,1.0,239,Logan Square,2,Entire home/apt
+1647,3.0,4.0,100,Logan Square,12,Entire home/apt
+1648,2.0,2.0,85,Logan Square,5,Entire home/apt
+1649,2.0,2.0,85,Logan Square,5,Entire home/apt
+1650,2.0,2.0,151,Logan Square,4,Entire home/apt
+1651,2.0,2.0,135,Logan Square,6,Entire home/apt
+1652,3.0,2.0,126,Logan Square,6,Entire home/apt
+1653,2.0,2.0,102,Logan Square,4,Entire home/apt
+1654,2.0,2.0,103,Logan Square,5,Entire home/apt
+1655,2.0,2.0,80,Logan Square,4,Entire home/apt
+1656,2.0,2.0,73,Logan Square,5,Entire home/apt
+1657,2.0,2.0,350,Logan Square,4,Entire home/apt
+1660,1.0,1.0,51,Logan Square,2,Entire home/apt
+1661,3.0,3.0,160,Logan Square,6,Entire home/apt
+1662,4.0,4.0,400,Logan Square,8,Entire home/apt
+1663,2.0,2.0,139,Logan Square,4,Entire home/apt
+1664,1.0,1.0,45,Logan Square,2,Private room
+1665,1.0,1.0,109,Logan Square,2,Private room
+1666,2.0,2.0,173,Logan Square,6,Entire home/apt
+1667,3.0,3.0,429,Logan Square,6,Entire home/apt
+1668,2.0,2.0,92,Logan Square,5,Entire home/apt
+1669,2.0,2.0,92,Logan Square,3,Entire home/apt
+1670,4.0,5.0,695,Logan Square,8,Entire home/apt
+1671,2.0,3.0,137,Logan Square,8,Entire home/apt
+1672,1.0,1.0,58,Logan Square,2,Private room
+1673,1.0,1.0,53,Logan Square,1,Private room
+1674,1.0,1.0,139,Logan Square,4,Entire home/apt
+1675,2.0,2.0,229,Logan Square,3,Entire home/apt
+1676,1.0,1.0,31,Logan Square,2,Private room
+1677,3.0,3.0,105,Logan Square,6,Entire home/apt
+1678,2.0,2.0,147,Logan Square,5,Entire home/apt
+1679,2.0,2.0,172,Logan Square,4,Entire home/apt
+1680,2.0,2.0,99,Logan Square,5,Entire home/apt
+1681,1.0,1.0,51,Logan Square,3,Entire home/apt
+1682,1.0,1.0,88,Logan Square,2,Entire home/apt
+1683,4.0,8.0,600,Logan Square,16,Entire home/apt
+1684,1.0,1.0,170,Logan Square,2,Private room
+1685,1.0,1.0,110,Logan Square,2,Entire home/apt
+1686,2.0,2.0,139,Logan Square,4,Entire home/apt
+1687,2.0,2.0,76,Logan Square,4,Entire home/apt
+1688,2.0,2.0,155,Logan Square,5,Entire home/apt
+1689,2.0,2.0,40,Logan Square,4,Entire home/apt
+1690,1.0,1.0,42,Logan Square,1,Private room
+1691,2.0,4.0,105,Logan Square,6,Entire home/apt
+1692,2.0,2.0,129,Logan Square,4,Entire home/apt
+1693,1.0,1.0,60,Logan Square,2,Private room
+1694,1.0,1.0,102,Logan Square,4,Entire home/apt
+1695,2.0,2.0,160,Logan Square,5,Entire home/apt
+1696,4.0,3.0,350,Logan Square,8,Entire home/apt
+1697,2.0,3.0,114,Logan Square,4,Entire home/apt
+1698,3.0,3.0,79,Logan Square,6,Entire home/apt
+1699,2.0,2.0,65,Logan Square,6,Entire home/apt
+1700,1.0,2.0,120,Logan Square,3,Entire home/apt
+1701,4.0,5.0,152,Logan Square,10,Entire home/apt
+1702,2.0,3.0,99,Logan Square,5,Entire home/apt
+1703,3.0,3.0,120,Logan Square,6,Entire home/apt
+1704,2.0,3.0,109,Logan Square,5,Entire home/apt
+1705,2.0,2.0,85,Logan Square,4,Entire home/apt
+1706,1.0,1.0,76,Logan Square,3,Entire home/apt
+1707,8.0,12.0,1499,Logan Square,16,Entire home/apt
+1708,3.0,3.0,93,Logan Square,5,Entire home/apt
+1709,3.0,3.0,217,Logan Square,10,Entire home/apt
+1710,1.0,1.0,107,Logan Square,2,Entire home/apt
+1711,2.0,3.0,116,Logan Square,6,Entire home/apt
+1712,1.0,2.0,80,Logan Square,2,Entire home/apt
+1713,1.0,1.0,99,Logan Square,4,Entire home/apt
+1714,3.0,4.0,104,Logan Square,5,Entire home/apt
+1715,1.0,1.0,120,Logan Square,2,Entire home/apt
+1716,2.0,2.0,62,Logan Square,4,Entire home/apt
+1717,3.0,3.0,575,Logan Square,6,Entire home/apt
+1718,2.0,3.0,109,Logan Square,4,Entire home/apt
+1719,1.0,1.0,204,Logan Square,6,Entire home/apt
+1721,2.0,2.0,200,Logan Square,4,Entire home/apt
+1722,2.0,2.0,300,Logan Square,5,Entire home/apt
+1723,4.0,5.0,243,Logan Square,10,Entire home/apt
+1724,3.0,4.0,133,Logan Square,7,Entire home/apt
+1726,3.0,5.0,177,Logan Square,8,Entire home/apt
+1727,4.0,8.0,295,Logan Square,12,Entire home/apt
+1728,4.0,6.0,1170,Logan Square,16,Entire home/apt
+1729,1.0,2.0,199,Logan Square,2,Entire home/apt
+1730,2.0,2.0,146,Logan Square,6,Entire home/apt
+1731,1.0,1.0,93,Logan Square,2,Entire home/apt
+1732,1.0,3.0,170,Logan Square,6,Entire home/apt
+1733,1.0,1.0,82,Logan Square,2,Entire home/apt
+1734,2.0,3.0,120,Logan Square,5,Entire home/apt
+1735,3.0,3.0,150,Logan Square,6,Entire home/apt
+1736,1.0,1.0,120,Logan Square,4,Entire home/apt
+1737,1.0,4.0,166,Logan Square,6,Entire home/apt
+1738,4.0,8.0,352,Logan Square,12,Entire home/apt
+1739,3.0,3.0,189,Logan Square,8,Entire home/apt
+1740,2.0,2.0,150,Logan Square,4,Entire home/apt
+1741,2.0,2.0,115,Logan Square,4,Entire home/apt
+1742,1.0,1.0,115,Logan Square,2,Private room
+1743,1.0,1.0,61,Logan Square,5,Entire home/apt
+1744,3.0,4.0,89,Logan Square,8,Entire home/apt
+1745,2.0,2.0,95,Logan Square,5,Entire home/apt
+1746,5.0,10.0,742,Logan Square,16,Entire home/apt
+1747,3.0,3.0,295,Logan Square,8,Entire home/apt
+1748,1.0,1.0,61,Logan Square,2,Entire home/apt
+1749,2.0,2.0,103,Logan Square,6,Entire home/apt
+1750,2.0,2.0,284,Logan Square,4,Entire home/apt
+1751,2.0,2.0,95,Logan Square,5,Entire home/apt
+1752,3.0,3.0,111,Logan Square,4,Entire home/apt
+1753,2.0,2.0,109,Logan Square,4,Entire home/apt
+1754,2.0,2.0,111,Logan Square,4,Entire home/apt
+1755,2.0,2.0,161,Logan Square,5,Entire home/apt
+1756,1.0,1.0,99,Logan Square,2,Entire home/apt
+1757,1.0,1.0,88,Logan Square,2,Entire home/apt
+1758,1.0,2.0,137,Logan Square,4,Entire home/apt
+1759,1.0,2.0,90,Logan Square,4,Entire home/apt
+1760,3.0,4.0,165,Logan Square,8,Entire home/apt
+1761,12.0,21.0,300,Logan Square,16,Entire home/apt
+1762,3.0,3.0,198,Logan Square,6,Entire home/apt
+1763,1.0,1.0,81,Logan Square,3,Entire home/apt
+1764,2.0,3.0,130,Logan Square,4,Entire home/apt
+1765,1.0,1.0,60,Logan Square,3,Entire home/apt
+1766,3.0,3.0,146,Logan Square,5,Entire home/apt
+1767,3.0,3.0,564,Logan Square,10,Entire home/apt
+1768,1.0,1.0,50,Logan Square,1,Private room
+1769,2.0,3.0,121,Logan Square,6,Entire home/apt
+1771,2.0,2.0,116,Logan Square,3,Entire home/apt
+1772,4.0,6.0,709,Logan Square,10,Entire home/apt
+1773,5.0,6.0,386,Logan Square,10,Entire home/apt
+1774,2.0,1.0,100,Logan Square,2,Entire home/apt
+1775,3.0,3.0,251,Logan Square,6,Entire home/apt
+1776,2.0,3.0,87,Logan Square,5,Entire home/apt
+1777,1.0,2.0,120,Logan Square,3,Entire home/apt
+1778,2.0,2.0,100,Logan Square,4,Entire home/apt
+1779,2.0,2.0,103,Logan Square,5,Entire home/apt
+1780,4.0,6.0,545,Logan Square,10,Entire home/apt
+1781,2.0,3.0,150,Logan Square,6,Entire home/apt
+1782,1.0,1.0,111,Logan Square,2,Entire home/apt
+1783,3.0,4.0,102,Logan Square,8,Entire home/apt
+1784,2.0,2.0,177,Logan Square,6,Entire home/apt
+1785,1.0,2.0,83,Logan Square,4,Entire home/apt
+1786,3.0,3.0,304,Logan Square,6,Entire home/apt
+1787,2.0,2.0,161,Logan Square,4,Entire home/apt
+1788,2.0,2.0,139,Logan Square,2,Entire home/apt
+1789,1.0,1.0,100,Logan Square,3,Entire home/apt
+1790,2.0,2.0,183,Logan Square,4,Entire home/apt
+1791,2.0,2.0,179,Logan Square,4,Entire home/apt
+1792,2.0,2.0,105,Logan Square,4,Entire home/apt
+1793,2.0,2.0,130,Logan Square,4,Entire home/apt
+1794,1.0,2.0,119,Logan Square,4,Entire home/apt
+1795,1.0,2.0,100,Logan Square,2,Entire home/apt
+1796,2.0,4.0,150,Logan Square,5,Entire home/apt
+1797,3.0,4.0,88,Logan Square,6,Entire home/apt
+1798,1.0,1.0,45,Logan Square,4,Private room
+1799,1.0,1.0,42,Logan Square,3,Private room
+1800,1.0,1.0,43,Logan Square,2,Private room
+1801,1.0,1.0,36,Logan Square,1,Private room
+1802,1.0,1.0,45,Logan Square,3,Private room
+1803,1.0,1.0,127,Logan Square,4,Entire home/apt
+1804,2.0,2.0,130,Logan Square,6,Entire home/apt
+1805,2.0,4.0,86,Logan Square,3,Entire home/apt
+1806,2.0,2.0,100,Logan Square,4,Entire home/apt
+1807,2.0,4.0,204,Logan Square,7,Entire home/apt
+1808,2.0,2.0,176,Logan Square,4,Entire home/apt
+1809,2.0,2.0,145,Logan Square,4,Entire home/apt
+1810,4.0,4.0,224,Logan Square,7,Entire home/apt
+1811,2.0,2.0,143,Logan Square,4,Entire home/apt
+1812,1.0,1.0,64,Logan Square,2,Private room
+1813,2.0,1.0,95,Logan Square,4,Entire home/apt
+1814,2.0,2.0,45,Logan Square,2,Private room
+1816,1.0,1.0,60,Logan Square,2,Private room
+1817,1.0,1.0,39,Logan Square,1,Private room
+1818,1.0,1.0,46,Logan Square,4,Private room
+1819,1.0,1.0,46,Logan Square,2,Private room
+1820,2.0,2.0,200,Logan Square,4,Entire home/apt
+1821,2.0,2.0,140,Logan Square,4,Entire home/apt
+1822,4.0,4.0,353,Logan Square,10,Entire home/apt
+1823,1.0,1.0,51,Logan Square,2,Private room
+1824,4.0,4.0,700,Logan Square,12,Entire home/apt
+1825,1.0,1.0,143,Logan Square,2,Entire home/apt
+1830,2.0,2.0,113,Logan Square,4,Entire home/apt
+1831,1.0,1.0,111,Logan Square,2,Entire home/apt
+1832,1.0,1.0,133,Logan Square,2,Entire home/apt
+1833,1.0,1.0,161,Logan Square,3,Entire home/apt
+1834,2.0,3.0,78,Logan Square,6,Entire home/apt
+1835,2.0,2.0,88,Logan Square,4,Entire home/apt
+1836,1.0,1.0,85,Logan Square,2,Entire home/apt
+1837,4.0,5.0,689,Logan Square,9,Entire home/apt
+1838,3.0,4.0,143,Logan Square,8,Entire home/apt
+1839,1.0,1.0,82,Logan Square,2,Private room
+1840,2.0,2.0,102,Logan Square,4,Entire home/apt
+1841,1.0,1.0,75,Logan Square,2,Entire home/apt
+1842,1.0,2.0,111,Logan Square,4,Entire home/apt
+1843,2.0,3.0,80,Logan Square,6,Entire home/apt
+1844,3.0,4.0,131,Logan Square,8,Entire home/apt
+1845,1.0,2.0,170,Logan Square,4,Entire home/apt
+1846,2.0,2.0,40,Logan Square,4,Entire home/apt
+1847,2.0,3.0,166,Logan Square,6,Entire home/apt
+1848,2.0,2.0,83,Logan Square,4,Entire home/apt
+1849,3.0,3.0,140,Logan Square,5,Entire home/apt
+1850,1.0,1.0,101,Logan Square,4,Entire home/apt
+1851,3.0,3.0,109,Logan Square,6,Entire home/apt
+1852,4.0,8.0,438,Logan Square,15,Entire home/apt
+1853,2.0,2.0,69,Logan Square,4,Entire home/apt
+1854,3.0,4.0,250,Logan Square,8,Entire home/apt
+1855,2.0,2.0,147,Logan Square,4,Entire home/apt
+1856,1.0,2.0,91,Logan Square,5,Entire home/apt
+1857,2.0,2.0,105,Logan Square,4,Entire home/apt
+1858,3.0,3.0,400,Logan Square,6,Entire home/apt
+1859,1.0,2.0,170,Logan Square,2,Entire home/apt
+1861,1.0,1.0,89,Logan Square,3,Entire home/apt
+1862,2.0,2.0,203,Logan Square,5,Entire home/apt
+1863,3.0,4.0,130,Logan Square,7,Entire home/apt
+1864,2.0,3.0,100,Logan Square,6,Entire home/apt
+1865,3.0,3.0,202,Logan Square,6,Entire home/apt
+1866,1.0,2.0,54,Logan Square,2,Private room
+1867,3.0,3.0,223,Logan Square,6,Entire home/apt
+1868,3.0,3.0,200,Logan Square,8,Entire home/apt
+1869,2.0,2.0,81,Logan Square,5,Entire home/apt
+1870,1.0,1.0,115,Logan Square,3,Entire home/apt
+1871,2.0,2.0,225,Logan Square,6,Entire home/apt
+1872,4.0,4.0,280,Logan Square,8,Entire home/apt
+1873,2.0,2.0,196,Logan Square,4,Entire home/apt
+1874,1.0,2.0,139,Logan Square,4,Entire home/apt
+1875,1.0,1.0,98,Logan Square,2,Entire home/apt
+1876,1.0,1.0,45,Logan Square,1,Private room
+1877,3.0,5.0,200,Logan Square,10,Entire home/apt
+1878,3.0,3.0,183,Logan Square,6,Entire home/apt
+1879,1.0,1.0,44,Logan Square,2,Private room
+1880,1.0,1.0,44,Logan Square,2,Private room
+1881,5.0,10.0,598,Logan Square,15,Entire home/apt
+1883,1.0,1.0,49,Logan Square,2,Private room
+1884,3.0,3.0,157,Logan Square,6,Entire home/apt
+1885,3.0,3.0,280,Logan Square,4,Entire home/apt
+1886,3.0,3.0,102,Logan Square,4,Entire home/apt
+1887,2.0,2.0,97,Logan Square,3,Entire home/apt
+1888,1.0,1.0,59,Logan Square,2,Private room
+1889,1.0,1.0,88,Logan Square,4,Entire home/apt
+1890,1.0,1.0,116,Logan Square,3,Entire home/apt
+1891,2.0,2.0,150,Logan Square,5,Entire home/apt
+1892,2.0,2.0,68,Logan Square,4,Entire home/apt
+1893,2.0,3.0,100,Logan Square,5,Entire home/apt
+1894,2.0,3.0,197,Logan Square,6,Entire home/apt
+1895,2.0,3.0,165,Logan Square,6,Entire home/apt
+1896,4.0,7.0,615,Logan Square,8,Entire home/apt
+1897,1.0,3.0,74,Logan Square,5,Private room
+1898,2.0,3.0,149,Logan Square,4,Entire home/apt
+1899,3.0,5.0,161,Logan Square,8,Entire home/apt
+1900,2.0,2.0,72,Logan Square,4,Entire home/apt
+1901,2.0,2.0,67,Logan Square,4,Entire home/apt
+1902,2.0,2.0,168,Logan Square,4,Entire home/apt
+1903,2.0,10.0,175,Logan Square,10,Entire home/apt
+1904,2.0,2.0,174,Logan Square,4,Entire home/apt
+1905,5.0,7.0,217,Logan Square,10,Entire home/apt
+1906,2.0,2.0,226,Logan Square,4,Entire home/apt
+1907,2.0,2.0,135,Logan Square,4,Entire home/apt
+1908,1.0,1.0,50,Logan Square,2,Private room
+1909,3.0,5.0,127,Logan Square,9,Entire home/apt
+1910,3.0,3.0,130,Logan Square,5,Entire home/apt
+1911,1.0,1.0,154,Logan Square,2,Entire home/apt
+1913,3.0,1.0,323,Logan Square,4,Entire home/apt
+1914,1.0,1.0,49,Logan Square,2,Private room
+1915,2.0,2.0,125,Logan Square,4,Entire home/apt
+1916,4.0,4.0,602,Logan Square,8,Entire home/apt
+1917,1.0,1.0,137,Logan Square,2,Entire home/apt
+1918,2.0,2.0,89,Logan Square,6,Entire home/apt
+1919,2.0,2.0,121,Logan Square,5,Entire home/apt
+1920,2.0,2.0,88,Logan Square,6,Entire home/apt
+1921,2.0,3.0,171,Logan Square,6,Entire home/apt
+1922,1.0,2.0,119,Logan Square,4,Entire home/apt
+1923,1.0,1.0,45,Logan Square,4,Private room
+1925,1.0,1.0,44,Logan Square,2,Private room
+1926,1.0,1.0,66,Logan Square,2,Private room
+1927,2.0,2.0,189,Logan Square,5,Entire home/apt
+1928,1.0,1.0,154,Logan Square,2,Entire home/apt
+1929,2.0,3.0,173,Logan Square,6,Entire home/apt
+1930,5.0,6.0,629,Logan Square,14,Entire home/apt
+1931,5.0,5.0,150,Logan Square,10,Entire home/apt
+1932,1.0,1.0,87,Logan Square,2,Private room
+1933,2.0,2.0,110,Logan Square,5,Entire home/apt
+1934,2.0,2.0,158,Logan Square,4,Entire home/apt
+1935,2.0,2.0,86,Logan Square,4,Entire home/apt
+1936,1.0,2.0,101,Logan Square,4,Entire home/apt
+1937,2.0,2.0,160,Logan Square,4,Entire home/apt
+1938,2.0,2.0,110,Logan Square,4,Entire home/apt
+1939,2.0,2.0,125,Logan Square,4,Entire home/apt
+1940,3.0,3.0,315,Logan Square,6,Entire home/apt
+1941,3.0,3.0,93,Logan Square,6,Entire home/apt
+1942,2.0,2.0,77,Logan Square,4,Entire home/apt
+1943,2.0,5.0,155,Logan Square,7,Entire home/apt
+1944,4.0,6.0,199,Logan Square,9,Entire home/apt
+1945,2.0,2.0,181,Logan Square,4,Entire home/apt
+1946,2.0,2.0,250,Logan Square,6,Entire home/apt
+1947,1.0,1.0,124,Logan Square,4,Entire home/apt
+1948,1.0,3.0,94,Logan Square,4,Entire home/apt
+1949,2.0,2.0,149,Logan Square,4,Entire home/apt
+1950,1.0,1.0,142,Logan Square,2,Entire home/apt
+1951,1.0,1.0,140,Logan Square,2,Entire home/apt
+1952,2.0,2.0,207,Logan Square,4,Entire home/apt
+1953,2.0,2.0,81,Logan Square,4,Entire home/apt
+1954,2.0,2.0,192,Logan Square,4,Entire home/apt
+1955,2.0,2.0,99,Logan Square,4,Entire home/apt
+1956,1.0,3.0,80,Logan Square,4,Entire home/apt
+1957,3.0,3.0,250,Logan Square,6,Entire home/apt
+1958,2.0,2.0,136,Logan Square,6,Entire home/apt
+1959,1.0,1.0,40,Logan Square,3,Entire home/apt
+1960,2.0,2.0,127,Logan Square,5,Entire home/apt
+1961,2.0,3.0,89,Logan Square,3,Entire home/apt
+1962,2.0,2.0,76,Logan Square,2,Entire home/apt
+1963,1.0,1.0,158,Logan Square,2,Entire home/apt
+1964,1.0,1.0,120,Logan Square,3,Entire home/apt
+1965,1.0,1.0,92,Logan Square,4,Entire home/apt
+1966,2.0,1.0,66,Logan Square,7,Entire home/apt
+1967,1.0,1.0,71,Logan Square,2,Private room
+1968,1.0,1.0,65,Logan Square,2,Private room
+1969,2.0,3.0,128,Logan Square,6,Entire home/apt
+1970,1.0,1.0,50,Logan Square,1,Private room
+1971,2.0,2.0,669,Logan Square,5,Entire home/apt
+1972,3.0,2.0,80,Logan Square,9,Entire home/apt
+1973,2.0,2.0,103,Logan Square,6,Entire home/apt
+1974,1.0,1.0,45,Logan Square,2,Private room
+1975,2.0,1.0,61,Logan Square,2,Entire home/apt
+1976,7.0,9.0,415,Logan Square,14,Entire home/apt
+1977,1.0,1.0,127,Logan Square,2,Entire home/apt
+1978,1.0,1.0,41,Logan Square,2,Private room
+1979,1.0,1.0,45,Logan Square,2,Private room
+1980,2.0,2.0,91,Logan Square,4,Entire home/apt
+1981,3.0,3.0,120,Logan Square,6,Entire home/apt
+1982,2.0,3.0,98,Logan Square,4,Entire home/apt
+1983,1.0,1.0,55,Logan Square,2,Private room
+1984,4.0,4.0,158,Logan Square,6,Entire home/apt
+1985,3.0,4.0,286,Logan Square,7,Entire home/apt
+1986,2.0,2.0,92,Logan Square,3,Entire home/apt
+1987,2.0,3.0,202,Logan Square,5,Entire home/apt
+1988,2.0,2.0,324,Logan Square,4,Entire home/apt
+1989,1.0,2.0,53,Logan Square,4,Entire home/apt
+1990,2.0,3.0,190,Logan Square,4,Entire home/apt
+1991,2.0,1.0,70,Logan Square,2,Private room
+1992,3.0,6.0,83,Logan Square,4,Entire home/apt
+1993,1.0,1.0,110,Logan Square,2,Private room
+1994,1.0,1.0,89,Logan Square,2,Private room
+1995,3.0,3.0,157,Logan Square,6,Entire home/apt
+1996,3.0,4.0,179,West Town,10,Entire home/apt
+1997,1.0,1.0,148,West Town,3,Entire home/apt
+1998,3.0,4.0,186,West Town,6,Entire home/apt
+1999,1.0,1.0,113,West Town,3,Entire home/apt
+2000,3.0,8.0,126,West Town,8,Entire home/apt
+2001,1.0,1.0,84,West Town,2,Entire home/apt
+2002,2.0,2.0,178,West Town,5,Entire home/apt
+2004,1.0,2.0,135,West Town,4,Entire home/apt
+2005,1.0,2.0,105,West Town,3,Entire home/apt
+2006,2.0,2.0,425,West Town,4,Entire home/apt
+2007,2.0,2.0,157,West Town,4,Entire home/apt
+2008,2.0,6.0,237,West Town,8,Entire home/apt
+2009,2.0,2.0,90,West Town,4,Entire home/apt
+2010,1.0,2.0,100,West Town,2,Private room
+2011,1.0,1.0,95,West Town,2,Private room
+2012,1.0,1.0,130,West Town,2,Entire home/apt
+2013,1.0,1.0,60,West Town,2,Private room
+2014,1.0,1.0,77,West Town,2,Private room
+2015,1.0,1.0,114,West Town,3,Private room
+2017,1.0,1.0,55,West Town,2,Private room
+2018,1.0,1.0,52,West Town,2,Private room
+2019,1.0,1.0,107,West Town,2,Entire home/apt
+2020,1.0,2.0,179,West Town,2,Entire home/apt
+2021,2.0,2.0,170,West Town,4,Entire home/apt
+2022,1.0,1.0,159,West Town,2,Private room
+2023,3.0,5.0,158,West Town,8,Entire home/apt
+2024,2.0,3.0,250,West Town,6,Entire home/apt
+2025,1.0,1.0,214,West Town,2,Entire home/apt
+2026,1.0,1.0,95,West Town,1,Private room
+2027,1.0,1.0,85,West Town,2,Entire home/apt
+2028,3.0,4.0,188,West Town,8,Entire home/apt
+2029,2.0,2.0,115,West Town,4,Entire home/apt
+2030,1.0,1.0,243,West Town,2,Entire home/apt
+2031,2.0,4.0,262,West Town,7,Entire home/apt
+2032,2.0,3.0,175,West Town,4,Entire home/apt
+2033,2.0,2.0,200,West Town,4,Entire home/apt
+2035,1.0,1.0,96,West Town,2,Entire home/apt
+2036,1.0,1.0,76,West Town,2,Private room
+2037,2.0,2.0,110,West Town,2,Private room
+2038,4.0,5.0,217,West Town,12,Entire home/apt
+2039,1.0,1.0,43,West Town,1,Private room
+2040,1.0,2.0,85,West Town,4,Entire home/apt
+2041,2.0,2.0,429,West Town,4,Entire home/apt
+2042,2.0,2.0,102,West Town,4,Entire home/apt
+2043,1.0,1.0,94,West Town,2,Private room
+2044,4.0,4.0,499,West Town,6,Entire home/apt
+2045,2.0,2.0,113,West Town,6,Entire home/apt
+2046,4.0,4.0,713,West Town,8,Entire home/apt
+2047,3.0,4.0,590,West Town,8,Entire home/apt
+2048,1.0,1.0,73,West Town,2,Private room
+2049,2.0,2.0,298,West Town,4,Entire home/apt
+2050,1.0,1.0,73,West Town,2,Private room
+2051,1.0,1.0,143,West Town,4,Entire home/apt
+2052,4.0,5.0,278,West Town,8,Entire home/apt
+2053,1.0,1.0,78,West Town,2,Private room
+2054,1.0,1.0,122,West Town,3,Entire home/apt
+2055,1.0,1.0,214,West Town,2,Private room
+2056,3.0,7.0,340,West Town,14,Entire home/apt
+2057,1.0,1.0,60,West Town,2,Private room
+2058,3.0,3.0,138,West Town,5,Entire home/apt
+2059,2.0,2.0,72,West Town,4,Entire home/apt
+2060,2.0,2.0,134,West Town,4,Entire home/apt
+2061,1.0,1.0,70,West Town,2,Private room
+2062,3.0,5.0,179,West Town,12,Entire home/apt
+2063,2.0,2.0,555,West Town,4,Entire home/apt
+2064,1.0,1.0,47,West Town,3,Private room
+2065,2.0,2.0,190,West Town,4,Entire home/apt
+2066,1.0,1.0,75,West Town,2,Private room
+2068,1.0,1.0,118,West Town,2,Entire home/apt
+2069,2.0,4.0,176,West Town,4,Entire home/apt
+2070,5.0,6.0,289,West Town,10,Entire home/apt
+2071,2.0,2.0,250,West Town,4,Entire home/apt
+2072,2.0,1.0,84,West Town,2,Entire home/apt
+2073,3.0,11.0,245,West Town,16,Entire home/apt
+2074,1.0,1.0,122,West Town,4,Entire home/apt
+2075,1.0,1.0,77,West Town,2,Private room
+2076,1.0,1.0,81,West Town,2,Private room
+2077,1.0,1.0,120,West Town,3,Entire home/apt
+2078,1.0,2.0,149,West Town,4,Entire home/apt
+2079,2.0,2.0,159,West Town,4,Entire home/apt
+2080,1.0,1.0,2221,West Town,4,Private room
+2081,1.0,1.0,90,West Town,2,Private room
+2082,3.0,4.0,307,West Town,8,Entire home/apt
+2083,1.0,1.0,315,West Town,3,Entire home/apt
+2084,2.0,2.0,221,West Town,5,Entire home/apt
+2085,1.0,1.0,182,West Town,2,Private room
+2086,2.0,2.0,99,West Town,4,Entire home/apt
+2087,1.0,1.0,276,West Town,4,Entire home/apt
+2088,1.0,1.0,99,West Town,2,Private room
+2089,3.0,4.0,650,West Town,6,Entire home/apt
+2090,1.0,2.0,187,West Town,4,Entire home/apt
+2092,2.0,2.0,120,West Town,5,Entire home/apt
+2093,1.0,1.0,95,West Town,2,Private room
+2094,1.0,2.0,82,West Town,5,Entire home/apt
+2095,2.0,2.0,159,West Town,4,Entire home/apt
+2096,2.0,2.0,100,West Town,4,Private room
+2097,1.0,1.0,128,West Town,4,Entire home/apt
+2098,2.0,2.0,132,West Town,6,Entire home/apt
+2099,3.0,3.0,243,West Town,5,Entire home/apt
+2100,2.0,2.0,90,West Town,4,Entire home/apt
+2101,2.0,3.0,99,West Town,4,Entire home/apt
+2102,2.0,2.0,160,West Town,4,Entire home/apt
+2104,4.0,7.0,1200,West Town,14,Entire home/apt
+2106,1.0,2.0,97,West Town,3,Entire home/apt
+2107,2.0,2.0,80,West Town,4,Entire home/apt
+2108,2.0,3.0,160,West Town,5,Entire home/apt
+2110,1.0,1.0,91,West Town,2,Private room
+2111,1.0,1.0,115,West Town,2,Private room
+2112,3.0,4.0,1286,West Town,12,Entire home/apt
+2113,1.0,1.0,81,West Town,2,Private room
+2114,3.0,3.0,210,West Town,6,Entire home/apt
+2115,2.0,4.0,350,West Town,4,Entire home/apt
+2116,2.0,5.0,117,West Town,6,Entire home/apt
+2117,1.0,1.0,90,West Town,1,Private room
+2118,3.0,5.0,399,West Town,7,Entire home/apt
+2119,4.0,5.0,359,West Town,14,Entire home/apt
+2120,1.0,3.0,44,West Town,3,Private room
+2121,1.0,1.0,67,West Town,2,Private room
+2122,1.0,1.0,45,West Town,1,Private room
+2123,1.0,1.0,95,West Town,2,Private room
+2124,1.0,2.0,84,West Town,4,Entire home/apt
+2125,5.0,10.0,702,West Town,12,Entire home/apt
+2126,2.0,2.0,500,West Town,8,Entire home/apt
+2128,2.0,2.0,80,West Town,4,Entire home/apt
+2130,1.0,1.0,45,West Town,2,Private room
+2131,1.0,1.0,213,West Town,4,Entire home/apt
+2133,4.0,6.0,779,West Town,14,Entire home/apt
+2134,3.0,3.0,99,West Town,6,Entire home/apt
+2135,2.0,2.0,87,West Town,4,Entire home/apt
+2136,1.0,1.0,125,West Town,4,Entire home/apt
+2138,3.0,5.0,296,West Town,14,Entire home/apt
+2139,2.0,2.0,200,West Town,4,Entire home/apt
+2140,1.0,1.0,70,West Town,1,Private room
+2141,2.0,3.0,187,West Town,7,Entire home/apt
+2142,1.0,1.0,69,West Town,4,Entire home/apt
+2143,2.0,2.0,180,West Town,4,Entire home/apt
+2144,2.0,3.0,107,West Town,6,Entire home/apt
+2145,2.0,2.0,119,West Town,4,Entire home/apt
+2146,2.0,2.0,339,West Town,4,Entire home/apt
+2147,1.0,1.0,115,West Town,2,Entire home/apt
+2148,1.0,2.0,101,West Town,4,Entire home/apt
+2149,1.0,1.0,60,West Town,2,Entire home/apt
+2150,2.0,2.0,155,West Town,6,Entire home/apt
+2151,4.0,5.0,208,West Town,7,Entire home/apt
+2152,2.0,3.0,304,West Town,5,Entire home/apt
+2153,2.0,3.0,140,West Town,6,Entire home/apt
+2154,2.0,2.0,121,West Town,6,Entire home/apt
+2155,1.0,1.0,33,West Town,2,Private room
+2156,4.0,5.0,190,West Town,10,Entire home/apt
+2157,3.0,4.0,139,West Town,7,Entire home/apt
+2158,2.0,4.0,363,West Town,8,Entire home/apt
+2159,2.0,2.0,87,West Town,6,Entire home/apt
+2160,2.0,2.0,100,West Town,4,Entire home/apt
+2161,1.0,1.0,44,West Town,3,Private room
+2162,1.0,2.0,63,West Town,3,Entire home/apt
+2163,2.0,2.0,50,West Town,4,Entire home/apt
+2164,3.0,5.0,200,West Town,6,Entire home/apt
+2165,1.0,2.0,135,West Town,4,Entire home/apt
+2166,1.0,2.0,61,West Town,4,Entire home/apt
+2167,2.0,3.0,196,West Town,6,Entire home/apt
+2168,5.0,8.0,563,West Town,15,Entire home/apt
+2169,1.0,1.0,100,West Town,2,Private room
+2170,2.0,3.0,148,West Town,4,Entire home/apt
+2171,2.0,2.0,130,West Town,6,Entire home/apt
+2172,2.0,2.0,99,West Town,6,Entire home/apt
+2173,4.0,7.0,214,West Town,14,Entire home/apt
+2174,3.0,3.0,258,West Town,6,Entire home/apt
+2175,2.0,2.0,129,West Town,3,Entire home/apt
+2176,4.0,6.0,922,West Town,8,Entire home/apt
+2177,2.0,2.0,94,West Town,4,Private room
+2178,2.0,3.0,92,West Town,6,Entire home/apt
+2179,1.0,1.0,65,West Town,2,Private room
+2180,2.0,2.0,99,West Town,3,Entire home/apt
+2181,2.0,3.0,228,West Town,5,Entire home/apt
+2182,1.0,1.0,71,West Town,2,Private room
+2183,1.0,2.0,87,West Town,4,Entire home/apt
+2184,1.0,1.0,80,West Town,3,Entire home/apt
+2186,2.0,3.0,312,West Town,4,Entire home/apt
+2187,3.0,3.0,175,West Town,6,Entire home/apt
+2188,2.0,3.0,223,West Town,5,Entire home/apt
+2189,2.0,2.0,105,West Town,5,Entire home/apt
+2190,5.0,7.0,1142,West Town,16,Entire home/apt
+2191,2.0,2.0,111,West Town,4,Entire home/apt
+2192,2.0,2.0,216,West Town,4,Entire home/apt
+2193,2.0,3.0,94,West Town,6,Entire home/apt
+2194,2.0,3.0,195,West Town,6,Entire home/apt
+2195,2.0,3.0,99,West Town,7,Entire home/apt
+2196,2.0,2.0,150,West Town,5,Entire home/apt
+2197,3.0,5.0,715,West Town,12,Entire home/apt
+2198,2.0,2.0,125,West Town,4,Entire home/apt
+2199,2.0,2.0,64,West Town,6,Entire home/apt
+2200,2.0,3.0,97,West Town,4,Entire home/apt
+2201,3.0,3.0,200,West Town,5,Entire home/apt
+2202,3.0,3.0,105,West Town,8,Entire home/apt
+2203,1.0,1.0,88,West Town,2,Private room
+2204,1.0,1.0,114,West Town,2,Entire home/apt
+2205,3.0,3.0,155,West Town,6,Entire home/apt
+2206,1.0,1.0,55,West Town,2,Private room
+2207,1.0,2.0,73,West Town,6,Entire home/apt
+2208,2.0,2.0,289,West Town,7,Entire home/apt
+2209,1.0,1.0,75,West Town,2,Private room
+2210,1.0,2.0,91,West Town,5,Entire home/apt
+2212,2.0,2.0,116,West Town,4,Entire home/apt
+2213,2.0,2.0,215,West Town,4,Entire home/apt
+2231,2.0,2.0,115,West Town,6,Entire home/apt
+2241,1.0,1.0,103,West Town,2,Entire home/apt
+2242,1.0,1.0,100,West Town,2,Entire home/apt
+2243,1.0,2.0,83,West Town,2,Entire home/apt
+2246,1.0,2.0,120,West Town,4,Private room
+2247,2.0,2.0,110,West Town,4,Entire home/apt
+2248,6.0,6.0,650,West Town,16,Entire home/apt
+2249,2.0,2.0,96,West Town,6,Entire home/apt
+2250,2.0,3.0,399,West Town,6,Entire home/apt
+2252,1.0,1.0,130,West Town,2,Entire home/apt
+2253,2.0,2.0,75,West Town,4,Entire home/apt
+2254,3.0,5.0,749,West Town,8,Entire home/apt
+2255,2.0,3.0,89,West Town,6,Entire home/apt
+2256,2.0,2.0,86,West Town,2,Entire home/apt
+2257,2.0,2.0,149,West Town,8,Entire home/apt
+2258,3.0,3.0,120,West Town,6,Entire home/apt
+2259,1.0,1.0,127,West Town,2,Entire home/apt
+2260,5.0,8.0,1200,West Town,10,Entire home/apt
+2261,1.0,2.0,129,West Town,4,Entire home/apt
+2262,3.0,4.0,49,West Town,8,Entire home/apt
+2266,1.0,1.0,19,West Town,2,Private room
+2267,1.0,1.0,19,West Town,2,Private room
+2268,1.0,1.0,19,West Town,2,Private room
+2277,1.0,1.0,19,West Town,2,Private room
+2278,3.0,3.0,297,West Town,6,Entire home/apt
+2279,3.0,3.0,100,West Town,6,Entire home/apt
+2280,3.0,3.0,199,West Town,6,Entire home/apt
+2281,2.0,2.0,85,West Town,7,Entire home/apt
+2282,3.0,4.0,183,West Town,4,Entire home/apt
+2283,2.0,2.0,91,West Town,4,Entire home/apt
+2284,2.0,2.0,122,West Town,4,Entire home/apt
+2285,3.0,4.0,49,West Town,6,Entire home/apt
+2286,2.0,2.0,108,West Town,3,Entire home/apt
+2287,2.0,2.0,79,West Town,4,Entire home/apt
+2288,2.0,2.0,96,West Town,6,Entire home/apt
+2289,1.0,1.0,45,West Town,4,Private room
+2290,1.0,1.0,45,West Town,4,Private room
+2291,1.0,1.0,45,West Town,4,Private room
+2292,3.0,4.0,143,West Town,10,Entire home/apt
+2293,1.0,1.0,170,West Town,2,Entire home/apt
+2294,1.0,1.0,147,West Town,2,Entire home/apt
+2295,3.0,3.0,195,West Town,5,Entire home/apt
+2296,1.0,1.0,111,West Town,4,Entire home/apt
+2297,1.0,2.0,168,West Town,4,Entire home/apt
+2298,3.0,4.0,204,West Town,6,Entire home/apt
+2299,1.0,1.0,110,West Town,2,Entire home/apt
+2300,2.0,4.0,317,West Town,6,Entire home/apt
+2302,1.0,1.0,67,West Town,1,Private room
+2303,4.0,7.0,2249,West Town,14,Entire home/apt
+2304,1.0,1.0,219,West Town,4,Entire home/apt
+2305,2.0,2.0,250,West Town,4,Entire home/apt
+2306,5.0,7.0,911,West Town,16,Entire home/apt
+2308,2.0,2.0,75,West Town,2,Entire home/apt
+2309,2.0,2.0,105,West Town,6,Entire home/apt
+2311,2.0,2.0,192,West Town,4,Entire home/apt
+2312,5.0,9.0,450,West Town,16,Entire home/apt
+2313,1.0,1.0,89,West Town,2,Private room
+2314,8.0,9.0,2380,West Town,16,Entire home/apt
+2315,2.0,2.0,125,West Town,4,Entire home/apt
+2316,1.0,1.0,168,West Town,2,Private room
+2317,4.0,7.0,512,West Town,16,Entire home/apt
+2318,1.0,1.0,185,West Town,2,Entire home/apt
+2319,3.0,5.0,157,West Town,11,Entire home/apt
+2320,5.0,5.0,321,West Town,10,Private room
+2321,1.0,1.0,80,West Town,2,Private room
+2322,4.0,3.0,313,West Town,6,Entire home/apt
+2323,1.0,1.0,75,West Town,2,Private room
+2324,1.0,2.0,188,West Town,4,Entire home/apt
+2325,3.0,4.0,139,West Town,6,Entire home/apt
+2326,1.0,1.0,45,West Town,1,Private room
+2327,3.0,4.0,136,West Town,7,Entire home/apt
+2328,2.0,2.0,85,West Town,4,Private room
+2329,3.0,4.0,105,West Town,8,Entire home/apt
+2330,4.0,5.0,500,West Town,13,Entire home/apt
+2331,2.0,3.0,69,West Town,6,Entire home/apt
+2332,1.0,1.0,75,West Town,3,Private room
+2333,3.0,5.0,225,West Town,10,Entire home/apt
+2334,1.0,1.0,117,West Town,2,Entire home/apt
+2335,1.0,1.0,100,West Town,3,Private room
+2336,2.0,3.0,122,West Town,6,Entire home/apt
+2337,2.0,4.0,69,West Town,5,Entire home/apt
+2339,2.0,2.0,182,West Town,4,Entire home/apt
+2340,3.0,4.0,545,West Town,6,Entire home/apt
+2341,1.0,1.0,93,West Town,2,Private room
+2342,1.0,2.0,76,West Town,4,Entire home/apt
+2343,1.0,1.0,95,West Town,3,Entire home/apt
+2344,2.0,4.0,193,West Town,5,Entire home/apt
+2345,5.0,6.0,199,West Town,16,Entire home/apt
+2346,3.0,4.0,135,West Town,6,Entire home/apt
+2347,2.0,3.0,130,West Town,5,Entire home/apt
+2348,2.0,3.0,150,West Town,8,Entire home/apt
+2350,3.0,3.0,110,West Town,6,Entire home/apt
+2351,3.0,3.0,309,West Town,6,Entire home/apt
+2352,1.0,1.0,199,West Town,2,Entire home/apt
+2353,1.0,1.0,92,West Town,2,Private room
+2354,1.0,1.0,294,West Town,2,Entire home/apt
+2355,3.0,3.0,100,West Town,8,Entire home/apt
+2356,1.0,1.0,162,West Town,2,Entire home/apt
+2357,1.0,1.0,19,West Town,2,Private room
+2358,1.0,1.0,19,West Town,2,Private room
+2360,3.0,3.0,140,West Town,6,Entire home/apt
+2361,5.0,6.0,463,West Town,12,Entire home/apt
+2362,3.0,5.0,177,West Town,6,Entire home/apt
+2373,3.0,4.0,308,West Town,9,Entire home/apt
+2374,3.0,3.0,92,West Town,6,Entire home/apt
+2376,2.0,2.0,99,West Town,5,Entire home/apt
+2378,1.0,1.0,120,West Town,2,Entire home/apt
+2379,1.0,1.0,110,West Town,4,Entire home/apt
+2380,3.0,3.0,791,West Town,6,Entire home/apt
+2381,3.0,4.0,274,West Town,6,Entire home/apt
+2384,2.0,2.0,141,West Town,4,Entire home/apt
+2385,4.0,3.0,1500,West Town,8,Entire home/apt
+2387,2.0,2.0,147,West Town,4,Entire home/apt
+2388,2.0,3.0,66,West Town,4,Entire home/apt
+2389,2.0,2.0,200,West Town,4,Entire home/apt
+2390,4.0,8.0,225,West Town,8,Entire home/apt
+2391,2.0,2.0,168,West Town,5,Entire home/apt
+2392,1.0,1.0,67,West Town,2,Entire home/apt
+2393,1.0,1.0,49,West Town,1,Entire home/apt
+2394,2.0,2.0,158,West Town,4,Entire home/apt
+2395,3.0,3.0,203,West Town,6,Entire home/apt
+2396,2.0,2.0,158,West Town,3,Entire home/apt
+2397,3.0,3.0,172,West Town,6,Entire home/apt
+2398,1.0,1.0,70,West Town,2,Entire home/apt
+2399,4.0,5.0,1041,West Town,10,Entire home/apt
+2400,2.0,3.0,241,West Town,5,Entire home/apt
+2401,1.0,2.0,50,West Town,3,Entire home/apt
+2402,2.0,2.0,55,West Town,3,Entire home/apt
+2403,3.0,3.0,207,West Town,6,Entire home/apt
+2404,5.0,5.0,366,West Town,13,Entire home/apt
+2405,4.0,4.0,599,West Town,10,Entire home/apt
+2406,1.0,2.0,214,West Town,4,Entire home/apt
+2407,3.0,3.0,198,West Town,6,Entire home/apt
+2408,4.0,4.0,390,West Town,10,Entire home/apt
+2409,2.0,3.0,100,West Town,6,Entire home/apt
+2410,1.0,1.0,77,West Town,2,Entire home/apt
+2411,2.0,2.0,499,West Town,4,Entire home/apt
+2412,3.0,4.0,232,West Town,6,Entire home/apt
+2413,2.0,2.0,173,West Town,4,Entire home/apt
+2414,1.0,1.0,52,West Town,1,Private room
+2415,4.0,6.0,619,West Town,16,Entire home/apt
+2416,3.0,4.0,141,West Town,6,Entire home/apt
+2417,3.0,4.0,170,West Town,9,Entire home/apt
+2418,1.0,1.0,128,West Town,2,Entire home/apt
+2419,1.0,1.0,65,West Town,2,Private room
+2420,1.0,2.0,77,West Town,4,Entire home/apt
+2421,1.0,2.0,145,West Town,3,Entire home/apt
+2422,1.0,2.0,129,West Town,4,Entire home/apt
+2423,2.0,2.0,123,West Town,5,Entire home/apt
+2424,5.0,8.0,693,West Town,12,Entire home/apt
+2425,1.0,1.0,264,West Town,2,Private room
+2426,1.0,1.0,84,West Town,2,Private room
+2427,2.0,2.0,120,West Town,4,Entire home/apt
+2428,3.0,5.0,349,West Town,8,Entire home/apt
+2430,1.0,2.0,150,West Town,4,Entire home/apt
+2431,2.0,2.0,185,West Town,5,Entire home/apt
+2448,2.0,1.0,92,West Town,3,Entire home/apt
+2449,2.0,2.0,92,West Town,4,Entire home/apt
+2450,1.0,1.0,81,West Town,7,Entire home/apt
+2451,2.0,4.0,73,West Town,6,Entire home/apt
+2452,5.0,5.0,1383,West Town,12,Entire home/apt
+2453,5.0,5.0,407,West Town,12,Entire home/apt
+2459,2.0,3.0,89,West Town,6,Entire home/apt
+2460,4.0,5.0,126,West Town,8,Entire home/apt
+2461,1.0,2.0,143,West Town,4,Entire home/apt
+2462,1.0,1.0,124,West Town,2,Private room
+2463,2.0,2.0,200,West Town,4,Entire home/apt
+2464,2.0,3.0,105,West Town,5,Entire home/apt
+2465,4.0,5.0,131,West Town,8,Entire home/apt
+2466,3.0,4.0,324,West Town,7,Entire home/apt
+2468,1.0,1.0,134,West Town,2,Entire home/apt
+2469,1.0,1.0,128,West Town,2,Entire home/apt
+2470,6.0,4.0,2429,West Town,16,Entire home/apt
+2471,2.0,3.0,295,West Town,8,Entire home/apt
+2472,1.0,1.0,133,West Town,2,Entire home/apt
+2473,2.0,2.0,202,West Town,6,Entire home/apt
+2474,2.0,2.0,114,West Town,4,Entire home/apt
+2475,3.0,3.0,219,West Town,6,Entire home/apt
+2476,2.0,2.0,137,West Town,4,Entire home/apt
+2477,2.0,2.0,104,West Town,4,Entire home/apt
+2478,2.0,2.0,395,West Town,5,Entire home/apt
+2479,2.0,2.0,125,West Town,4,Entire home/apt
+2480,2.0,2.0,116,West Town,4,Entire home/apt
+2481,2.0,2.0,105,West Town,4,Entire home/apt
+2482,1.0,1.0,168,West Town,2,Private room
+2483,3.0,4.0,214,West Town,8,Entire home/apt
+2484,1.0,2.0,150,West Town,3,Entire home/apt
+2485,4.0,5.0,126,West Town,8,Entire home/apt
+2486,4.0,4.0,543,West Town,14,Entire home/apt
+2487,2.0,2.0,315,West Town,3,Entire home/apt
+2488,1.0,2.0,120,West Town,3,Entire home/apt
+2489,3.0,4.0,278,West Town,10,Entire home/apt
+2490,2.0,4.0,260,West Town,6,Entire home/apt
+2491,1.0,2.0,85,West Town,2,Private room
+2492,1.0,1.0,116,West Town,2,Entire home/apt
+2493,2.0,2.0,116,West Town,4,Entire home/apt
+2494,3.0,3.0,121,West Town,7,Entire home/apt
+2495,4.0,4.0,403,West Town,8,Entire home/apt
+2496,2.0,2.0,165,West Town,4,Entire home/apt
+2497,2.0,2.0,210,West Town,4,Entire home/apt
+2498,1.0,1.0,129,West Town,4,Entire home/apt
+2499,3.0,3.0,504,West Town,7,Entire home/apt
+2500,3.0,5.0,253,West Town,8,Entire home/apt
+2501,2.0,2.0,170,West Town,4,Private room
+2502,1.0,1.0,85,West Town,2,Private room
+2503,1.0,1.0,85,West Town,2,Private room
+2504,2.0,2.0,112,West Town,4,Entire home/apt
+2505,2.0,2.0,134,West Town,4,Entire home/apt
+2506,2.0,3.0,224,West Town,5,Entire home/apt
+2507,2.0,2.0,185,West Town,4,Entire home/apt
+2508,1.0,2.0,94,West Town,4,Entire home/apt
+2509,2.0,2.0,120,West Town,4,Entire home/apt
+2511,3.0,3.0,217,West Town,6,Entire home/apt
+2512,2.0,1.0,50,West Town,2,Entire home/apt
+2513,3.0,3.0,786,West Town,8,Entire home/apt
+2514,4.0,6.0,162,West Town,10,Entire home/apt
+2515,3.0,4.0,181,West Town,10,Entire home/apt
+2516,1.0,2.0,102,West Town,4,Entire home/apt
+2517,2.0,4.0,380,West Town,7,Entire home/apt
+2518,1.0,1.0,39,West Town,2,Private room
+2519,1.0,1.0,49,West Town,2,Private room
+2520,1.0,1.0,40,West Town,2,Private room
+2521,3.0,4.0,313,West Town,8,Entire home/apt
+2522,3.0,4.0,313,West Town,8,Entire home/apt
+2523,1.0,1.0,37,West Town,1,Private room
+2524,1.0,1.0,40,West Town,2,Private room
+2525,1.0,1.0,40,West Town,2,Private room
+2526,2.0,2.0,140,West Town,4,Entire home/apt
+2527,2.0,2.0,363,West Town,6,Entire home/apt
+2528,1.0,1.0,90,West Town,2,Entire home/apt
+2530,6.0,6.0,274,West Town,16,Entire home/apt
+2531,4.0,4.0,108,West Town,8,Entire home/apt
+2532,2.0,2.0,200,West Town,5,Entire home/apt
+2533,1.0,1.0,185,West Town,2,Entire home/apt
+2534,2.0,4.0,294,West Town,12,Entire home/apt
+2535,2.0,2.0,147,West Town,4,Entire home/apt
+2536,2.0,2.0,157,West Town,4,Entire home/apt
+2537,2.0,2.0,200,West Town,4,Entire home/apt
+2538,2.0,2.0,300,West Town,6,Entire home/apt
+2539,1.0,1.0,179,West Town,2,Entire home/apt
+2540,3.0,3.0,135,West Town,7,Entire home/apt
+2541,1.0,1.0,58,West Town,1,Private room
+2542,1.0,1.0,85,West Town,4,Entire home/apt
+2543,2.0,3.0,178,West Town,7,Entire home/apt
+2544,2.0,3.0,143,West Town,5,Entire home/apt
+2545,2.0,6.0,180,West Town,4,Entire home/apt
+2546,2.0,2.0,181,West Town,4,Entire home/apt
+2547,1.0,2.0,96,West Town,4,Entire home/apt
+2548,3.0,4.0,113,West Town,5,Entire home/apt
+2549,2.0,2.0,79,West Town,4,Entire home/apt
+2550,1.0,1.0,165,West Town,2,Entire home/apt
+2551,5.0,9.0,213,West Town,16,Entire home/apt
+2552,3.0,4.0,415,West Town,8,Entire home/apt
+2553,3.0,3.0,262,West Town,8,Entire home/apt
+2554,2.0,3.0,121,West Town,6,Entire home/apt
+2555,4.0,5.0,478,West Town,10,Entire home/apt
+2556,2.0,4.0,170,West Town,9,Entire home/apt
+2557,2.0,2.0,181,West Town,4,Entire home/apt
+2558,3.0,5.0,125,West Town,6,Entire home/apt
+2559,2.0,2.0,74,West Town,4,Entire home/apt
+2560,4.0,5.0,1200,West Town,10,Entire home/apt
+2561,2.0,3.0,138,West Town,5,Entire home/apt
+2562,2.0,2.0,125,West Town,4,Entire home/apt
+2563,2.0,2.0,271,West Town,4,Entire home/apt
+2564,4.0,7.0,340,West Town,12,Entire home/apt
+2565,1.0,1.0,31,West Town,1,Private room
+2566,2.0,2.0,119,West Town,4,Entire home/apt
+2567,1.0,1.0,125,West Town,2,Entire home/apt
+2568,1.0,2.0,122,West Town,4,Entire home/apt
+2569,1.0,1.0,107,West Town,2,Entire home/apt
+2570,2.0,2.0,160,West Town,4,Entire home/apt
+2571,1.0,1.0,171,West Town,2,Entire home/apt
+2572,1.0,1.0,147,West Town,2,Entire home/apt
+2573,3.0,4.0,147,West Town,6,Entire home/apt
+2574,1.0,2.0,133,West Town,3,Entire home/apt
+2575,1.0,1.0,190,West Town,2,Entire home/apt
+2576,1.0,2.0,109,West Town,4,Entire home/apt
+2577,4.0,8.0,430,West Town,16,Entire home/apt
+2578,2.0,2.0,285,West Town,4,Entire home/apt
+2579,2.0,4.0,337,West Town,5,Entire home/apt
+2580,3.0,4.0,264,West Town,8,Entire home/apt
+2581,3.0,4.0,979,West Town,8,Entire home/apt
+2582,1.0,1.0,100,West Town,2,Private room
+2583,4.0,4.0,1800,West Town,8,Entire home/apt
+2584,1.0,1.0,54,West Town,2,Private room
+2585,1.0,1.0,95,West Town,3,Entire home/apt
+2586,2.0,7.0,686,West Town,12,Entire home/apt
+2587,5.0,5.0,301,West Town,12,Entire home/apt
+2588,1.0,1.0,190,West Town,2,Entire home/apt
+2589,3.0,4.0,166,West Town,6,Entire home/apt
+2590,2.0,3.0,159,West Town,6,Entire home/apt
+2591,5.0,10.0,825,West Town,16,Entire home/apt
+2592,3.0,3.0,285,West Town,6,Entire home/apt
+2593,1.0,1.0,155,West Town,2,Entire home/apt
+2594,4.0,4.0,794,West Town,12,Entire home/apt
+2595,1.0,1.0,220,West Town,2,Entire home/apt
+2596,1.0,1.0,155,West Town,2,Entire home/apt
+2597,2.0,2.0,244,West Town,4,Entire home/apt
+2598,4.0,4.0,513,West Town,13,Entire home/apt
+2599,1.0,3.0,115,West Town,4,Entire home/apt
+2600,1.0,1.0,146,West Town,2,Entire home/apt
+2601,1.0,1.0,250,West Town,2,Entire home/apt
+2602,2.0,2.0,72,West Town,5,Entire home/apt
+2603,2.0,3.0,100,West Town,4,Entire home/apt
+2604,1.0,2.0,304,West Town,4,Entire home/apt
+2605,2.0,2.0,300,West Town,4,Entire home/apt
+2606,2.0,2.0,75,West Town,4,Entire home/apt
+2607,2.0,2.0,72,West Town,4,Entire home/apt
+2608,3.0,3.0,93,West Town,6,Entire home/apt
+2610,4.0,4.0,787,West Town,10,Entire home/apt
+2611,1.0,1.0,108,West Town,2,Entire home/apt
+2612,3.0,3.0,126,West Town,10,Entire home/apt
+2613,4.0,5.0,296,West Town,10,Entire home/apt
+2614,2.0,2.0,150,West Town,6,Entire home/apt
+2615,4.0,5.0,326,West Town,12,Entire home/apt
+2616,3.0,5.0,224,West Town,14,Entire home/apt
+2617,3.0,3.0,231,West Town,5,Entire home/apt
+2618,2.0,2.0,175,West Town,5,Entire home/apt
+2619,4.0,4.0,122,West Town,6,Entire home/apt
+2620,2.0,2.0,137,West Town,3,Entire home/apt
+2621,4.0,4.0,108,West Town,8,Entire home/apt
+2622,4.0,4.0,108,West Town,8,Entire home/apt
+2623,1.0,1.0,115,West Town,4,Entire home/apt
+2624,1.0,2.0,52,West Town,2,Entire home/apt
+2625,3.0,4.0,175,West Town,8,Entire home/apt
+2626,3.0,4.0,346,West Town,7,Entire home/apt
+2627,2.0,2.0,135,West Town,2,Entire home/apt
+2628,4.0,8.0,447,West Town,14,Entire home/apt
+2629,1.0,1.0,116,West Town,2,Entire home/apt
+2630,1.0,1.0,93,West Town,2,Entire home/apt
+2631,1.0,1.0,109,West Town,2,Entire home/apt
+2632,1.0,1.0,92,West Town,2,Entire home/apt
+2633,4.0,11.0,719,West Town,16,Entire home/apt
+2634,3.0,3.0,250,West Town,6,Entire home/apt
+2635,3.0,4.0,212,West Town,7,Entire home/apt
+2636,3.0,3.0,144,West Town,8,Entire home/apt
+2637,3.0,6.0,275,West Town,8,Entire home/apt
+2638,3.0,5.0,151,West Town,8,Entire home/apt
+2639,1.0,1.0,55,West Town,1,Private room
+2640,1.0,1.0,88,West Town,2,Private room
+2641,1.0,1.0,65,West Town,2,Private room
+2642,1.0,1.0,117,West Town,2,Entire home/apt
+2643,3.0,3.0,93,West Town,6,Entire home/apt
+2645,1.0,1.0,88,West Town,1,Private room
+2646,5.0,4.0,1550,West Town,8,Entire home/apt
+2647,1.0,1.0,67,West Town,2,Private room
+2648,4.0,5.0,108,West Town,8,Entire home/apt
+2649,1.0,2.0,70,West Town,4,Entire home/apt
+2650,2.0,2.0,251,West Town,4,Entire home/apt
+2651,3.0,3.0,224,West Town,6,Entire home/apt
+2652,3.0,3.0,594,West Town,7,Entire home/apt
+2653,3.0,3.0,639,West Town,7,Entire home/apt
+2654,1.0,1.0,119,West Town,2,Entire home/apt
+2655,2.0,2.0,117,West Town,6,Entire home/apt
+2656,1.0,2.0,181,West Town,4,Entire home/apt
+2657,2.0,3.0,122,West Town,6,Entire home/apt
+2658,1.0,2.0,109,West Town,4,Entire home/apt
+2659,2.0,2.0,800,West Town,4,Entire home/apt
+2660,2.0,4.0,166,West Town,6,Entire home/apt
+2661,3.0,3.0,278,West Town,6,Entire home/apt
+2662,2.0,2.0,99,West Town,4,Entire home/apt
+2663,2.0,2.0,87,West Town,4,Entire home/apt
+2664,2.0,3.0,95,West Town,5,Entire home/apt
+2665,1.0,1.0,150,West Town,2,Private room
+2667,4.0,4.0,326,West Town,8,Entire home/apt
+2668,3.0,3.0,184,West Town,6,Entire home/apt
+2669,2.0,3.0,102,West Town,6,Entire home/apt
+2670,1.0,1.0,102,West Town,2,Private room
+2671,3.0,3.0,230,West Town,7,Entire home/apt
+2672,2.0,2.0,114,West Town,4,Entire home/apt
+2673,2.0,3.0,133,West Town,5,Entire home/apt
+2674,9.0,19.0,1640,West Town,16,Entire home/apt
+2675,3.0,3.0,183,West Town,6,Entire home/apt
+2676,4.0,4.0,304,West Town,12,Entire home/apt
+2677,2.0,2.0,92,West Town,6,Entire home/apt
+2678,1.0,1.0,177,West Town,2,Entire home/apt
+2679,1.0,1.0,121,West Town,2,Entire home/apt
+2680,1.0,1.0,60,West Town,1,Private room
+2681,2.0,3.0,146,West Town,6,Entire home/apt
+2682,1.0,1.0,95,West Town,2,Entire home/apt
+2683,3.0,3.0,202,West Town,6,Entire home/apt
+2684,4.0,4.0,227,West Town,8,Entire home/apt
+2685,4.0,4.0,293,West Town,10,Entire home/apt
+2686,4.0,7.0,694,West Town,12,Entire home/apt
+2687,1.0,1.0,136,West Town,2,Entire home/apt
+2688,2.0,2.0,196,West Town,4,Entire home/apt
+2690,1.0,1.0,160,West Town,2,Entire home/apt
+2691,2.0,2.0,186,West Town,4,Entire home/apt
+2692,2.0,1.0,85,West Town,4,Entire home/apt
+2693,2.0,2.0,67,West Town,4,Entire home/apt
+2694,3.0,3.0,437,West Town,7,Entire home/apt
+2695,2.0,2.0,366,West Town,5,Entire home/apt
+2696,3.0,6.0,223,West Town,8,Entire home/apt
+2697,2.0,2.0,179,West Town,4,Entire home/apt
+2698,4.0,5.0,108,West Town,8,Entire home/apt
+2699,3.0,2.0,180,West Town,4,Entire home/apt
+2700,3.0,3.0,571,West Town,7,Entire home/apt
+2701,6.0,6.0,1060,West Town,14,Entire home/apt
+2702,1.0,2.0,249,West Town,4,Entire home/apt
+2703,9.0,9.0,1540,West Town,16,Entire home/apt
+2704,1.0,1.0,128,West Town,2,Entire home/apt
+2706,3.0,4.0,200,West Town,8,Entire home/apt
+2707,2.0,2.0,71,West Town,4,Entire home/apt
+2708,2.0,3.0,71,West Town,4,Entire home/apt
+2709,2.0,2.0,103,West Town,4,Entire home/apt
+2710,2.0,4.0,175,West Town,5,Entire home/apt
+2711,1.0,2.0,63,West Town,3,Entire home/apt
+2712,2.0,3.0,113,West Town,4,Entire home/apt
+2713,2.0,2.0,118,West Town,5,Entire home/apt
+2714,6.0,6.0,1023,West Town,12,Entire home/apt
+2715,2.0,2.0,72,West Town,4,Entire home/apt
+2716,2.0,2.0,100,West Town,4,Entire home/apt
+2717,1.0,1.0,155,West Town,2,Entire home/apt
+2718,3.0,3.0,157,West Town,8,Entire home/apt
+2719,1.0,1.0,53,West Town,2,Entire home/apt
+2720,1.0,1.0,61,West Town,2,Entire home/apt
+2721,1.0,2.0,105,West Town,7,Entire home/apt
+2722,1.0,1.0,60,West Town,2,Private room
+2724,1.0,1.0,80,West Town,2,Private room
+2725,1.0,1.0,25,West Town,1,Private room
+2726,2.0,2.0,79,West Town,4,Entire home/apt
+2727,2.0,2.0,69,West Town,4,Entire home/apt
+2728,3.0,3.0,178,West Town,8,Entire home/apt
+2729,1.0,2.0,128,West Town,4,Entire home/apt
+2730,1.0,2.0,128,West Town,4,Entire home/apt
+2731,1.0,3.0,148,West Town,6,Entire home/apt
+2732,1.0,2.0,135,West Town,4,Entire home/apt
+2733,7.0,16.0,861,West Town,16,Entire home/apt
+2734,3.0,8.0,351,West Town,12,Entire home/apt
+2735,6.0,6.0,1017,West Town,14,Entire home/apt
+2736,2.0,2.0,127,West Town,4,Entire home/apt
+2737,1.0,1.0,78,West Town,2,Entire home/apt
+2738,1.0,1.0,87,West Town,2,Entire home/apt
+2739,1.0,1.0,90,West Town,2,Entire home/apt
+2740,1.0,1.0,78,West Town,3,Entire home/apt
+2741,1.0,1.0,76,West Town,3,Entire home/apt
+2742,1.0,1.0,75,West Town,3,Entire home/apt
+2743,4.0,5.0,350,West Town,6,Entire home/apt
+2744,2.0,2.0,152,West Town,3,Entire home/apt
+2745,1.0,2.0,128,West Town,4,Entire home/apt
+2746,2.0,2.0,122,West Town,5,Entire home/apt
+2747,2.0,2.0,89,West Town,5,Entire home/apt
+2748,3.0,3.0,275,West Town,7,Entire home/apt
+2749,3.0,6.0,184,West Town,14,Entire home/apt
+2750,2.0,2.0,117,West Town,6,Entire home/apt
+2751,3.0,4.0,388,West Town,11,Entire home/apt
+2752,1.0,2.0,350,West Town,3,Private room
+2753,2.0,2.0,600,West Town,4,Private room
+2754,2.0,2.0,500,West Town,4,Private room
+2755,1.0,2.0,128,West Town,4,Entire home/apt
+2756,1.0,1.0,275,West Town,4,Entire home/apt
+2757,1.0,1.0,75,West Town,2,Entire home/apt
+2758,2.0,3.0,136,West Town,5,Entire home/apt
+2759,2.0,2.0,76,West Town,2,Entire home/apt
+2760,1.0,1.0,123,West Town,2,Entire home/apt
+2761,1.0,1.0,84,West Town,4,Entire home/apt
+2762,1.0,1.0,42,West Town,2,Private room
+2763,3.0,3.0,225,West Town,6,Entire home/apt
+2764,1.0,1.0,114,West Town,4,Entire home/apt
+2765,2.0,3.0,126,West Town,4,Entire home/apt
+2766,4.0,4.0,295,West Town,10,Entire home/apt
+2767,1.0,2.0,100,West Town,4,Entire home/apt
+2768,3.0,5.0,184,West Town,12,Entire home/apt
+2769,2.0,3.0,116,West Town,3,Entire home/apt
+2770,1.0,3.0,69,West Town,4,Private room
+2771,1.0,2.0,90,West Town,4,Private room
+2773,1.0,1.0,62,West Town,2,Private room
+2774,1.0,1.0,62,West Town,2,Private room
+2775,1.0,1.0,50,West Town,2,Private room
+2776,3.0,3.0,212,West Town,6,Entire home/apt
+2777,2.0,2.0,125,West Town,3,Entire home/apt
+2778,1.0,2.0,107,West Town,4,Entire home/apt
+2779,2.0,2.0,86,West Town,4,Entire home/apt
+2780,1.0,1.0,80,West Town,2,Private room
+2781,1.0,1.0,85,West Town,2,Entire home/apt
+2782,1.0,1.0,84,West Town,2,Private room
+2783,1.0,1.0,89,West Town,2,Private room
+3344,2.0,2.0,185,Near West Side,4,Entire home/apt
+3345,1.0,1.0,68,Near West Side,3,Private room
+3346,1.0,1.0,136,Near West Side,1,Private room
+3347,2.0,3.0,356,Near West Side,5,Entire home/apt
+3348,2.0,2.0,126,Near West Side,6,Entire home/apt
+3349,2.0,2.0,75,Near West Side,3,Entire home/apt
+3350,2.0,2.0,185,Near West Side,3,Entire home/apt
+3351,1.0,2.0,279,Near West Side,3,Entire home/apt
+3352,2.0,2.0,150,Near West Side,4,Entire home/apt
+3353,2.0,2.0,125,Near West Side,2,Entire home/apt
+3354,4.0,11.0,561,Near West Side,15,Entire home/apt
+3355,2.0,2.0,136,Near West Side,6,Entire home/apt
+3356,2.0,3.0,149,Near West Side,4,Entire home/apt
+3357,3.0,3.0,186,Near West Side,8,Entire home/apt
+3358,1.0,1.0,50,Near West Side,2,Private room
+3359,1.0,1.0,60,Near West Side,2,Private room
+3360,2.0,1.0,59,Near West Side,1,Private room
+3361,1.0,1.0,78,Near West Side,2,Private room
+3362,3.0,3.0,127,Near West Side,6,Entire home/apt
+3363,1.0,1.0,55,Near West Side,2,Private room
+3364,1.0,1.0,59,Near West Side,2,Private room
+3365,1.0,1.0,60,Near West Side,2,Private room
+3366,1.0,1.0,52,Near West Side,2,Private room
+3367,1.0,1.0,170,Near West Side,4,Entire home/apt
+3368,1.0,1.0,249,Near West Side,2,Entire home/apt
+3369,3.0,4.0,94,Near West Side,8,Entire home/apt
+3370,2.0,2.0,71,Near West Side,12,Entire home/apt
+3371,1.0,1.0,65,Near West Side,2,Private room
+3372,1.0,1.0,146,Near West Side,2,Entire home/apt
+3373,2.0,2.0,100,Near West Side,6,Entire home/apt
+3374,1.0,1.0,150,Near West Side,2,Entire home/apt
+3375,1.0,1.0,49,Near West Side,2,Private room
+3376,1.0,1.0,43,Near West Side,2,Private room
+3377,3.0,3.0,175,Near West Side,6,Entire home/apt
+3378,2.0,3.0,148,Near West Side,6,Entire home/apt
+3380,1.0,2.0,45,Near West Side,4,Entire home/apt
+3381,1.0,2.0,123,Near West Side,3,Entire home/apt
+3382,3.0,4.0,111,Near West Side,8,Entire home/apt
+3383,1.0,1.0,139,Near West Side,2,Entire home/apt
+3384,1.0,1.0,72,Near West Side,4,Private room
+3385,3.0,2.0,461,Near West Side,4,Entire home/apt
+3386,1.0,1.0,263,Near West Side,2,Entire home/apt
+3387,1.0,1.0,49,Near West Side,2,Private room
+3388,1.0,1.0,59,Near West Side,2,Private room
+3389,1.0,1.0,84,Near West Side,4,Private room
+3390,1.0,1.0,40,Near West Side,4,Private room
+3391,2.0,2.0,170,Near West Side,6,Entire home/apt
+3392,2.0,3.0,156,Near West Side,6,Entire home/apt
+3393,3.0,5.0,499,Near West Side,11,Entire home/apt
+3394,3.0,2.0,95,Near West Side,5,Entire home/apt
+3395,1.0,1.0,40,Near West Side,4,Private room
+3396,1.0,1.0,40,Near West Side,4,Private room
+3397,1.0,2.0,46,Near West Side,4,Private room
+3398,1.0,1.0,42,Near West Side,4,Private room
+3399,1.0,1.0,49,Near West Side,4,Private room
+3400,1.0,2.0,49,Near West Side,2,Private room
+3401,2.0,2.0,109,Near West Side,4,Entire home/apt
+3402,1.0,1.0,35,Near West Side,2,Private room
+3403,1.0,1.0,33,Near West Side,1,Private room
+3404,2.0,2.0,159,Near West Side,6,Entire home/apt
+3405,2.0,3.0,168,Near West Side,6,Entire home/apt
+3406,1.0,1.0,91,Near West Side,1,Private room
+3407,1.0,1.0,37,Near West Side,2,Private room
+3408,2.0,2.0,93,Near West Side,6,Entire home/apt
+3409,1.0,1.0,38,Near West Side,4,Private room
+3410,2.0,2.0,108,Near West Side,4,Entire home/apt
+3411,1.0,1.0,42,Near West Side,3,Entire home/apt
+3412,1.0,1.0,86,Near West Side,2,Entire home/apt
+3413,1.0,1.0,85,Near West Side,2,Entire home/apt
+3414,1.0,1.0,99,Near West Side,3,Entire home/apt
+3415,1.0,1.0,60,Near West Side,2,Private room
+3416,1.0,1.0,50,Near West Side,2,Private room
+3417,1.0,1.0,75,Near West Side,3,Entire home/apt
+3418,2.0,2.0,65,Near West Side,4,Entire home/apt
+3419,1.0,1.0,55,Near West Side,2,Private room
+3420,1.0,1.0,100,Near West Side,4,Entire home/apt
+3422,2.0,2.0,148,Near West Side,6,Entire home/apt
+3423,2.0,2.0,108,Near West Side,4,Entire home/apt
+3424,1.0,1.0,66,Near West Side,2,Private room
+3425,3.0,4.0,99,Near West Side,6,Entire home/apt
+3426,1.0,1.0,109,Near West Side,4,Entire home/apt
+3427,4.0,4.0,292,Near West Side,8,Entire home/apt
+3428,1.0,1.0,90,Near West Side,4,Entire home/apt
+3429,2.0,3.0,182,Near West Side,5,Entire home/apt
+3430,3.0,7.0,418,Near West Side,12,Entire home/apt
+3431,3.0,3.0,542,Near West Side,7,Entire home/apt
+3432,1.0,1.0,162,Near West Side,2,Entire home/apt
+3433,3.0,7.0,511,Near West Side,12,Entire home/apt
+3434,6.0,14.0,905,Near West Side,16,Entire home/apt
+3435,1.0,1.0,35,Near West Side,2,Private room
+3436,1.0,4.0,99,Near West Side,4,Private room
+3437,3.0,7.0,499,Near West Side,10,Entire home/apt
+3438,3.0,3.0,99,Near West Side,6,Entire home/apt
+3439,2.0,2.0,225,Near West Side,4,Entire home/apt
+3441,1.0,1.0,100,Near West Side,1,Private room
+3442,1.0,1.0,31,Near West Side,1,Private room
+3443,3.0,4.0,189,Near West Side,6,Entire home/apt
+3444,5.0,5.0,317,Near West Side,10,Entire home/apt
+3445,1.0,1.0,200,Near West Side,4,Entire home/apt
+3446,3.0,3.0,122,Near West Side,6,Entire home/apt
+3447,2.0,1.0,100,Near West Side,5,Entire home/apt
+3448,2.0,2.0,154,Near West Side,4,Entire home/apt
+3449,2.0,2.0,264,Near West Side,4,Entire home/apt
+3450,2.0,2.0,174,Near West Side,4,Entire home/apt
+3451,2.0,4.0,556,Near West Side,8,Entire home/apt
+3452,1.0,1.0,110,Near West Side,3,Entire home/apt
+3453,2.0,7.0,314,Near West Side,12,Entire home/apt
+3454,3.0,7.0,452,Near West Side,12,Entire home/apt
+3455,5.0,14.0,861,Near West Side,16,Entire home/apt
+3456,1.0,1.0,177,Near West Side,2,Entire home/apt
+3457,2.0,4.0,163,Near West Side,5,Entire home/apt
+3458,2.0,3.0,187,Near West Side,5,Entire home/apt
+3459,2.0,3.0,182,Near West Side,4,Entire home/apt
+3460,3.0,4.0,168,Near West Side,9,Entire home/apt
+3461,6.0,1.0,240,Near West Side,6,Private room
+3462,4.0,4.0,183,Near West Side,6,Entire home/apt
+3463,1.0,1.0,199,Near West Side,2,Private room
+3464,3.0,3.0,367,Near West Side,8,Entire home/apt
+3465,2.0,2.0,500,Near West Side,6,Entire home/apt
+3467,2.0,2.0,200,Near West Side,4,Entire home/apt
+3468,1.0,1.0,136,Near West Side,4,Entire home/apt
+3469,6.0,7.0,349,Near West Side,12,Entire home/apt
+3470,1.0,1.0,60,Near West Side,2,Private room
+3471,1.0,1.0,140,Near West Side,5,Entire home/apt
+3472,3.0,7.0,436,Near West Side,13,Entire home/apt
+3474,1.0,1.0,143,Near West Side,2,Entire home/apt
+3475,2.0,3.0,136,Near West Side,6,Entire home/apt
+3478,1.0,1.0,154,Near West Side,2,Entire home/apt
+3480,2.0,2.0,276,Near West Side,4,Entire home/apt
+3481,1.0,1.0,162,Near West Side,2,Entire home/apt
+3482,2.0,3.0,278,Near West Side,6,Entire home/apt
+3484,1.0,1.0,68,Near West Side,3,Entire home/apt
+3486,3.0,4.0,299,Near West Side,5,Entire home/apt
+3488,1.0,2.0,76,Near West Side,4,Entire home/apt
+3489,3.0,3.0,650,Near West Side,6,Entire home/apt
+3490,1.0,1.0,290,Near West Side,6,Entire home/apt
+3492,2.0,2.0,258,Near West Side,4,Entire home/apt
+3493,2.0,2.0,250,Near West Side,2,Entire home/apt
+3495,1.0,1.0,161,Near West Side,2,Entire home/apt
+3496,1.0,1.0,256,Near West Side,2,Entire home/apt
+3497,1.0,1.0,106,Near West Side,2,Entire home/apt
+3498,1.0,1.0,139,Near West Side,2,Entire home/apt
+3500,1.0,1.0,159,Near West Side,2,Entire home/apt
+3501,1.0,1.0,179,Near West Side,2,Entire home/apt
+3502,1.0,1.0,193,Near West Side,2,Entire home/apt
+3503,1.0,1.0,204,Near West Side,2,Entire home/apt
+3504,1.0,1.0,183,Near West Side,2,Entire home/apt
+3505,1.0,1.0,204,Near West Side,2,Entire home/apt
+3506,1.0,1.0,179,Near West Side,2,Entire home/apt
+3507,1.0,1.0,204,Near West Side,2,Entire home/apt
+3508,1.0,1.0,204,Near West Side,2,Entire home/apt
+3509,1.0,1.0,204,Near West Side,2,Entire home/apt
+3510,1.0,2.0,61,Near West Side,4,Entire home/apt
+3511,4.0,4.0,264,Near West Side,8,Entire home/apt
+3512,1.0,1.0,80,Near West Side,2,Private room
+3513,1.0,1.0,124,Near West Side,2,Entire home/apt
+3514,2.0,3.0,186,Near West Side,6,Entire home/apt
+3515,2.0,2.0,216,Near West Side,4,Entire home/apt
+3516,1.0,2.0,195,Near West Side,3,Entire home/apt
+3517,3.0,3.0,162,Near West Side,6,Entire home/apt
+3518,3.0,4.0,160,Near West Side,5,Entire home/apt
+3519,3.0,4.0,160,Near West Side,7,Entire home/apt
+3520,1.0,1.0,60,Near West Side,2,Private room
+3521,3.0,3.0,160,Near West Side,6,Entire home/apt
+3522,4.0,5.0,176,Near West Side,7,Entire home/apt
+3523,3.0,3.0,160,Near West Side,6,Entire home/apt
+3524,3.0,3.0,175,Near West Side,5,Entire home/apt
+3525,3.0,3.0,161,Near West Side,6,Entire home/apt
+3526,3.0,3.0,160,Near West Side,6,Entire home/apt
+3527,3.0,3.0,248,Near West Side,4,Entire home/apt
+3528,3.0,4.0,160,Near West Side,6,Entire home/apt
+3529,3.0,3.0,160,Near West Side,6,Entire home/apt
+3530,2.0,2.0,160,Near West Side,4,Entire home/apt
+3531,3.0,3.0,175,Near West Side,6,Entire home/apt
+3532,1.0,1.0,50,Near West Side,2,Private room
+3533,1.0,1.0,65,Near West Side,2,Private room
+3534,1.0,1.0,66,Near West Side,2,Private room
+3535,1.0,1.0,60,Near West Side,2,Private room
+3536,3.0,3.0,160,Near West Side,6,Entire home/apt
+3537,3.0,4.0,160,Near West Side,7,Entire home/apt
+3538,1.0,1.0,64,Near West Side,2,Private room
+3539,1.0,1.0,50,Near West Side,1,Private room
+3540,1.0,1.0,48,Near West Side,2,Private room
+3541,2.0,2.0,300,Near West Side,4,Entire home/apt
+3542,1.0,1.0,90,Near West Side,2,Entire home/apt
+3543,1.0,1.0,131,Near West Side,2,Entire home/apt
+3545,1.0,1.0,75,Near West Side,2,Entire home/apt
+3547,2.0,2.0,171,Near West Side,4,Entire home/apt
+3548,4.0,4.0,350,Near West Side,8,Entire home/apt
+3549,4.0,4.0,282,Near West Side,8,Entire home/apt
+3550,1.0,1.0,166,Near West Side,3,Entire home/apt
+3551,1.0,1.0,166,Near West Side,3,Entire home/apt
+3552,2.0,3.0,135,Near West Side,4,Entire home/apt
+3553,2.0,3.0,105,Near West Side,4,Entire home/apt
+3554,1.0,1.0,60,Near West Side,2,Private room
+3555,1.0,1.0,68,Near West Side,2,Private room
+3556,1.0,1.0,57,Near West Side,2,Entire home/apt
+3557,3.0,3.0,292,Near West Side,6,Entire home/apt
+3560,1.0,1.0,105,Near West Side,4,Entire home/apt
+3561,2.0,3.0,90,Near West Side,4,Entire home/apt
+3562,3.0,4.0,148,Near West Side,8,Entire home/apt
+3563,3.0,3.0,175,Near West Side,6,Entire home/apt
+3564,1.0,1.0,117,Near West Side,2,Entire home/apt
+3565,1.0,1.0,135,Near West Side,2,Entire home/apt
+3566,1.0,1.0,95,Near West Side,2,Entire home/apt
+3567,1.0,1.0,300,Near West Side,2,Entire home/apt
+3568,1.0,1.0,300,Near West Side,2,Entire home/apt
+3569,1.0,1.0,300,Near West Side,2,Entire home/apt
+3570,1.0,1.0,300,Near West Side,2,Entire home/apt
+3571,1.0,1.0,300,Near West Side,2,Entire home/apt
+3572,1.0,1.0,40,Near West Side,2,Private room
+3573,1.0,1.0,29,Near West Side,2,Private room
+3574,2.0,2.0,94,Near West Side,4,Entire home/apt
+3575,1.0,1.0,35,Near West Side,2,Private room
+3576,1.0,1.0,30,Near West Side,2,Private room
+3577,1.0,1.0,32,Near West Side,2,Private room
+3578,1.0,1.0,100,Near West Side,2,Entire home/apt
+3579,1.0,1.0,125,Near West Side,2,Entire home/apt
+3580,2.0,2.0,133,Near West Side,4,Entire home/apt
+3581,1.0,1.0,128,Near West Side,2,Entire home/apt
+3582,2.0,2.0,160,Near West Side,4,Entire home/apt
+3583,1.0,1.0,57,Near West Side,2,Entire home/apt
+3584,1.0,1.0,58,Near West Side,2,Entire home/apt
+3585,1.0,1.0,300,Near West Side,3,Entire home/apt
+3586,1.0,1.0,39,Near West Side,2,Private room
+3587,1.0,1.0,299,Near West Side,2,Entire home/apt
+3588,1.0,1.0,200,Near West Side,2,Entire home/apt
+3589,2.0,2.0,210,Near West Side,4,Entire home/apt
+3590,1.0,1.0,169,Near West Side,2,Entire home/apt
+3591,1.0,1.0,147,Near West Side,2,Entire home/apt
+3592,1.0,1.0,61,Near West Side,2,Private room
+3593,1.0,2.0,135,Near West Side,4,Entire home/apt
+3597,1.0,1.0,131,Near West Side,2,Entire home/apt
+3598,1.0,1.0,133,Near West Side,2,Entire home/apt
+3599,1.0,1.0,167,Near West Side,2,Entire home/apt
+3600,2.0,2.0,162,Near West Side,4,Entire home/apt
+3601,1.0,1.0,125,Near West Side,2,Entire home/apt
+3602,1.0,1.0,139,Near West Side,2,Entire home/apt
+3603,3.0,3.0,128,Near West Side,7,Entire home/apt
+3604,2.0,3.0,150,Near West Side,5,Entire home/apt
+3605,1.0,1.0,155,Near West Side,2,Entire home/apt
+3606,1.0,1.0,154,Near West Side,2,Entire home/apt
+3607,1.0,1.0,154,Near West Side,2,Entire home/apt
+3608,2.0,2.0,248,Near West Side,4,Entire home/apt
+3609,2.0,2.0,238,Near West Side,4,Entire home/apt
+3610,1.0,1.0,159,Near West Side,2,Entire home/apt
+3611,6.0,6.0,951,Near West Side,14,Entire home/apt
+3612,1.0,1.0,35,Near West Side,2,Private room
+3613,1.0,1.0,34,Near West Side,2,Private room
+3614,2.0,2.0,96,Near West Side,5,Entire home/apt
+3615,2.0,2.0,90,Near West Side,4,Entire home/apt
+3616,1.0,2.0,63,Near West Side,2,Entire home/apt
+3617,2.0,2.0,90,Near West Side,4,Entire home/apt
+3618,3.0,4.0,500,Near West Side,7,Entire home/apt
+3620,1.0,1.0,152,Near West Side,2,Entire home/apt
+3621,1.0,3.0,65,Near West Side,1,Private room
+3622,1.0,1.0,161,Near West Side,2,Entire home/apt
+3623,1.0,1.0,148,Near West Side,2,Entire home/apt
+3624,3.0,3.0,152,Near West Side,5,Entire home/apt
+3625,3.0,6.0,407,Near West Side,10,Entire home/apt
+3626,1.0,1.0,194,Near West Side,2,Entire home/apt
+3627,1.0,1.0,128,Near West Side,2,Entire home/apt
+3628,1.0,1.0,175,Near West Side,2,Entire home/apt
+3629,1.0,1.0,180,Near West Side,2,Entire home/apt
+3630,1.0,1.0,158,Near West Side,2,Entire home/apt
+3631,1.0,1.0,128,Near West Side,2,Entire home/apt
+3632,1.0,1.0,182,Near West Side,2,Entire home/apt
+3633,4.0,4.0,279,Near West Side,8,Entire home/apt
+3634,1.0,1.0,50,Near West Side,2,Entire home/apt
+3635,1.0,1.0,146,Near West Side,2,Entire home/apt
+3636,2.0,2.0,217,Near West Side,4,Entire home/apt
+3637,1.0,1.0,157,Near West Side,2,Entire home/apt
+3638,1.0,1.0,128,Near West Side,2,Entire home/apt
+3639,2.0,2.0,130,Near West Side,3,Entire home/apt
+3640,2.0,2.0,261,Near West Side,4,Entire home/apt
+3642,1.0,1.0,183,Near West Side,2,Entire home/apt
+3643,2.0,2.0,95,Near West Side,4,Entire home/apt
+3644,2.0,2.0,98,Near West Side,5,Entire home/apt
+3646,1.0,1.0,149,Near West Side,3,Entire home/apt
+3647,1.0,1.0,86,Near West Side,2,Entire home/apt
+3648,2.0,2.0,232,Near West Side,4,Entire home/apt
+3649,4.0,5.0,264,Near West Side,8,Entire home/apt
+3650,2.0,2.0,218,Near West Side,4,Entire home/apt
+3651,2.0,3.0,316,Near West Side,4,Entire home/apt
+3652,2.0,2.0,240,Near West Side,4,Entire home/apt
+3653,1.0,1.0,140,Near West Side,2,Entire home/apt
+3654,4.0,4.0,336,Near West Side,10,Entire home/apt
+3656,2.0,2.0,82,Near West Side,4,Entire home/apt
+3657,3.0,4.0,287,Near West Side,8,Entire home/apt
+3658,2.0,2.0,117,Near West Side,4,Entire home/apt
+3659,4.0,5.0,779,Near West Side,8,Entire home/apt
+3660,1.0,1.0,112,Near West Side,2,Entire home/apt
+3661,2.0,2.0,164,Near West Side,4,Entire home/apt
+3662,2.0,2.0,166,Near West Side,4,Entire home/apt
+3663,1.0,1.0,100,Near West Side,2,Entire home/apt
+3664,2.0,2.0,161,Near West Side,4,Entire home/apt
+3665,1.0,1.0,155,Near West Side,2,Entire home/apt
+3667,2.0,2.0,401,Near West Side,5,Entire home/apt
+3668,1.0,1.0,106,Near West Side,2,Entire home/apt
+3669,3.0,3.0,215,Near West Side,6,Entire home/apt
+3670,1.0,1.0,48,Near West Side,5,Private room
+3671,1.0,1.0,132,Near West Side,2,Entire home/apt
+3672,1.0,1.0,148,Near West Side,2,Entire home/apt
+3673,2.0,2.0,194,Near West Side,4,Entire home/apt
+3674,1.0,1.0,148,Near West Side,2,Entire home/apt
+3675,1.0,1.0,144,Near West Side,2,Entire home/apt
+3676,2.0,2.0,213,Near West Side,4,Entire home/apt
+3679,2.0,2.0,72,Near West Side,5,Entire home/apt
+3680,1.0,1.0,48,Near West Side,2,Private room
+3681,1.0,1.0,196,Near West Side,2,Entire home/apt
+3683,1.0,1.0,189,Near West Side,2,Entire home/apt
+3684,1.0,1.0,65,Near West Side,2,Private room
+3685,2.0,2.0,80,Near West Side,4,Entire home/apt
+3686,1.0,1.0,249,Near West Side,4,Entire home/apt
+3687,1.0,1.0,129,Near West Side,2,Entire home/apt
+3688,3.0,4.0,157,Near West Side,10,Entire home/apt
+3689,1.0,1.0,110,Near West Side,2,Entire home/apt
+3690,2.0,3.0,160,Near West Side,6,Entire home/apt
+3691,3.0,3.0,93,Near West Side,8,Entire home/apt
+3692,1.0,1.0,57,Near West Side,2,Entire home/apt
+3693,1.0,1.0,76,Near West Side,2,Entire home/apt
+3694,1.0,1.0,69,Near West Side,2,Private room
+3695,1.0,1.0,54,Near West Side,2,Private room
+3696,1.0,2.0,102,Near West Side,4,Entire home/apt
+3698,1.0,1.0,39,Near West Side,3,Private room
+3699,1.0,1.0,93,Near West Side,2,Entire home/apt
+3700,4.0,7.0,555,Near West Side,14,Entire home/apt
+3701,1.0,1.0,37,Near West Side,2,Private room
+3702,1.0,1.0,35,Near West Side,3,Private room
+3704,3.0,3.0,175,Near West Side,6,Entire home/apt
+3705,3.0,3.0,1600,Near West Side,8,Entire home/apt
+3706,1.0,1.0,149,Near West Side,2,Entire home/apt
+3707,1.0,1.0,160,Near West Side,2,Entire home/apt
+3708,1.0,1.0,81,Near West Side,2,Entire home/apt
+3709,1.0,1.0,345,Near West Side,4,Entire home/apt
+3710,4.0,5.0,364,Near West Side,12,Entire home/apt
+3711,2.0,2.0,253,Near West Side,5,Entire home/apt
+3713,1.0,2.0,52,Near West Side,3,Private room
+3714,3.0,3.0,132,Near West Side,6,Entire home/apt
+3715,1.0,1.0,250,Near West Side,2,Entire home/apt
+3716,2.0,3.0,175,Near West Side,6,Entire home/apt
+3717,2.0,2.0,190,Near West Side,6,Entire home/apt
+3718,2.0,2.0,250,Near West Side,4,Entire home/apt
+3719,2.0,2.0,65,Near West Side,4,Entire home/apt
+3720,1.0,1.0,158,Near West Side,2,Entire home/apt
+3721,1.0,1.0,150,Near West Side,2,Entire home/apt
+3722,1.0,1.0,119,Near West Side,2,Private room
+3723,6.0,6.0,123,Near West Side,11,Entire home/apt
+3724,2.0,2.0,159,Near West Side,4,Entire home/apt
+3725,2.0,2.0,170,Near West Side,6,Entire home/apt
+3726,1.0,1.0,255,Near West Side,2,Entire home/apt
+3727,1.0,1.0,125,Near West Side,2,Entire home/apt
+3728,1.0,1.0,149,Near West Side,2,Entire home/apt
+3730,1.0,1.0,145,Near West Side,2,Entire home/apt
+3731,1.0,1.0,35,Near West Side,2,Private room
+3732,1.0,1.0,154,Near West Side,3,Entire home/apt
+3733,2.0,3.0,300,Near West Side,4,Entire home/apt
+3734,4.0,5.0,86,Near West Side,6,Entire home/apt
+3735,2.0,2.0,203,Near West Side,5,Entire home/apt
+3737,1.0,1.0,125,Near West Side,2,Entire home/apt
+3738,1.0,1.0,149,Near West Side,2,Entire home/apt
+3740,1.0,1.0,115,Near West Side,2,Entire home/apt
+3742,2.0,2.0,222,Near West Side,4,Entire home/apt
+3743,1.0,1.0,151,Near West Side,2,Entire home/apt
+3745,4.0,4.0,133,Near West Side,8,Entire home/apt
+3746,2.0,2.0,237,Near West Side,4,Entire home/apt
+3747,1.0,1.0,142,Near West Side,2,Entire home/apt
+3748,3.0,3.0,249,Near West Side,4,Entire home/apt
+3749,2.0,2.0,272,Near West Side,4,Entire home/apt
+3751,2.0,4.0,122,Near West Side,6,Entire home/apt
+3752,2.0,2.0,209,Near West Side,4,Entire home/apt
+3753,1.0,1.0,99,Near West Side,3,Entire home/apt
+3754,1.0,1.0,60,Near West Side,1,Private room
+3755,2.0,3.0,120,Near West Side,6,Entire home/apt
+3757,2.0,2.0,286,Near West Side,4,Entire home/apt
+3758,2.0,2.0,302,Near West Side,6,Entire home/apt
+3759,3.0,3.0,399,Near West Side,8,Entire home/apt
+3760,1.0,1.0,35,Near West Side,2,Private room
+3761,3.0,3.0,370,Near West Side,8,Entire home/apt
+3762,2.0,2.0,304,Near West Side,5,Entire home/apt
+3763,2.0,2.0,349,Near West Side,5,Entire home/apt
+3764,1.0,1.0,213,Near West Side,3,Entire home/apt
+3765,2.0,2.0,382,Near West Side,5,Entire home/apt
+3766,2.0,2.0,417,Near West Side,5,Entire home/apt
+3767,3.0,3.0,168,Near West Side,5,Entire home/apt
+3768,2.0,2.0,222,Near West Side,4,Entire home/apt
+3769,1.0,3.0,65,Near West Side,5,Entire home/apt
+3770,1.0,1.0,30,Near West Side,1,Private room
+3771,3.0,3.0,170,Near West Side,9,Entire home/apt
+3772,1.0,1.0,170,Near West Side,2,Entire home/apt
+3773,9.0,9.0,1400,Near West Side,16,Entire home/apt
+3774,2.0,2.0,188,Near West Side,4,Entire home/apt
+3776,1.0,1.0,55,Near West Side,2,Private room
+3777,7.0,7.0,1158,Near West Side,16,Entire home/apt
+3778,1.0,1.0,57,Near West Side,2,Entire home/apt
+3779,2.0,2.0,130,Near West Side,4,Entire home/apt
+3780,4.0,9.0,732,Near West Side,16,Entire home/apt
+3781,3.0,3.0,192,Near West Side,8,Entire home/apt
+3782,2.0,2.0,147,Near West Side,7,Entire home/apt
+3783,6.0,6.0,942,Near West Side,16,Entire home/apt
+3784,8.0,8.0,1275,Near West Side,16,Entire home/apt
+3785,1.0,2.0,115,Near West Side,4,Entire home/apt
+3786,2.0,2.0,85,Near West Side,4,Entire home/apt
+3787,1.0,1.0,53,Near West Side,1,Private room
+3788,1.0,1.0,40,Near West Side,2,Private room
+3789,3.0,7.0,324,Near West Side,10,Entire home/apt
+3790,1.0,1.0,107,Near West Side,2,Entire home/apt
+3791,1.0,1.0,39,Near West Side,2,Private room
+3792,2.0,2.0,97,Near West Side,4,Entire home/apt
+3795,1.0,1.0,350,Near West Side,3,Private room
+3798,1.0,1.0,350,Near West Side,3,Private room
+3799,3.0,3.0,900,Near West Side,6,Private room
+3800,2.0,2.0,600,Near West Side,4,Private room
+3801,2.0,2.0,500,Near West Side,4,Private room
+3802,1.0,2.0,350,Near West Side,3,Private room
+3803,3.0,3.0,900,Near West Side,6,Private room
+3804,2.0,2.0,600,Near West Side,4,Private room
+3805,2.0,2.0,600,Near West Side,4,Private room
+3806,2.0,2.0,500,Near West Side,4,Private room
+3807,2.0,2.0,500,Near West Side,4,Private room
+3808,3.0,3.0,168,Near West Side,7,Entire home/apt
+3809,2.0,4.0,164,Near West Side,8,Entire home/apt
+3810,2.0,4.0,172,Near West Side,8,Entire home/apt
+3811,2.0,2.0,179,Near West Side,5,Entire home/apt
+3815,3.0,3.0,157,Near West Side,8,Entire home/apt
+3816,1.0,1.0,32,Near West Side,2,Private room
+3817,3.0,3.0,464,Near West Side,4,Entire home/apt
+3818,2.0,2.0,151,Near West Side,4,Entire home/apt
+3819,1.0,1.0,104,Near West Side,2,Entire home/apt
+3820,1.0,1.0,50,Near West Side,2,Private room
+3821,1.0,1.0,50,Near West Side,2,Private room
+3822,1.0,3.0,64,Near West Side,6,Private room
+3823,2.0,2.0,204,Near West Side,3,Entire home/apt
+3824,2.0,2.0,133,Near West Side,5,Entire home/apt
+3825,1.0,1.0,103,Near West Side,2,Private room
+4514,1.0,1.0,155,Near North Side,2,Entire home/apt
+4516,1.0,1.0,93,Near North Side,2,Entire home/apt
+4517,1.0,1.0,110,Near North Side,1,Entire home/apt
+4518,1.0,1.0,101,Near North Side,2,Private room
+4519,1.0,1.0,135,Near North Side,2,Entire home/apt
+4520,2.0,3.0,225,Near North Side,7,Entire home/apt
+4521,1.0,1.0,79,Near North Side,2,Entire home/apt
+4522,2.0,2.0,275,Near North Side,4,Entire home/apt
+4523,2.0,2.0,204,Near North Side,4,Entire home/apt
+4524,2.0,2.0,149,Near North Side,6,Entire home/apt
+4525,1.0,1.0,83,Near North Side,2,Entire home/apt
+4526,2.0,2.0,99,Near North Side,4,Entire home/apt
+4527,1.0,1.0,70,Near North Side,3,Entire home/apt
+4528,1.0,1.0,105,Near North Side,2,Private room
+4529,1.0,1.0,179,Near North Side,2,Entire home/apt
+4530,2.0,2.0,220,Near North Side,4,Entire home/apt
+4531,1.0,1.0,150,Near North Side,3,Entire home/apt
+4532,1.0,1.0,155,Near North Side,2,Entire home/apt
+4534,2.0,1.0,213,Near North Side,6,Entire home/apt
+4535,1.0,1.0,155,Near North Side,3,Entire home/apt
+4536,1.0,1.0,175,Near North Side,3,Entire home/apt
+4537,1.0,1.0,145,Near North Side,2,Entire home/apt
+4538,1.0,1.0,120,Near North Side,2,Entire home/apt
+4539,1.0,2.0,99,Near North Side,3,Private room
+4540,1.0,1.0,145,Near North Side,3,Entire home/apt
+4541,1.0,1.0,150,Near North Side,3,Entire home/apt
+4542,2.0,2.0,250,Near North Side,4,Entire home/apt
+4543,2.0,2.0,210,Near North Side,2,Entire home/apt
+4544,2.0,2.0,218,Near North Side,4,Entire home/apt
+4545,2.0,4.0,220,Near North Side,5,Entire home/apt
+4546,1.0,2.0,89,Near North Side,3,Private room
+4547,2.0,4.0,190,Near North Side,6,Entire home/apt
+4549,2.0,2.0,195,Near North Side,5,Entire home/apt
+4550,2.0,2.0,175,Near North Side,4,Entire home/apt
+4551,2.0,2.0,220,Near North Side,4,Entire home/apt
+4552,1.0,1.0,85,Near North Side,2,Entire home/apt
+4554,1.0,1.0,157,Near North Side,3,Entire home/apt
+4555,1.0,1.0,140,Near North Side,2,Entire home/apt
+4557,1.0,2.0,135,Near North Side,4,Entire home/apt
+4558,2.0,2.0,348,Near North Side,6,Entire home/apt
+4559,2.0,2.0,150,Near North Side,3,Entire home/apt
+4560,2.0,4.0,211,Near North Side,6,Entire home/apt
+4561,1.0,1.0,98,Near North Side,2,Entire home/apt
+4562,1.0,1.0,150,Near North Side,2,Private room
+4563,1.0,1.0,99,Near North Side,3,Private room
+4564,2.0,2.0,220,Near North Side,4,Entire home/apt
+4565,1.0,1.0,150,Near North Side,2,Entire home/apt
+4566,1.0,1.0,100,Near North Side,2,Entire home/apt
+4567,2.0,3.0,175,Near North Side,4,Entire home/apt
+4571,1.0,1.0,124,Near North Side,2,Private room
+4575,5.0,8.0,850,Near North Side,16,Entire home/apt
+4576,2.0,3.0,220,Near North Side,4,Entire home/apt
+4578,4.0,5.0,337,Near North Side,9,Entire home/apt
+4579,2.0,3.0,425,Near North Side,6,Entire home/apt
+4580,1.0,1.0,96,Near North Side,2,Entire home/apt
+4581,2.0,2.0,345,Near North Side,6,Entire home/apt
+4582,1.0,1.0,95,Near North Side,2,Entire home/apt
+4583,1.0,2.0,135,Near North Side,3,Entire home/apt
+4584,1.0,1.0,89,Near North Side,2,Entire home/apt
+4585,1.0,2.0,300,Near North Side,4,Entire home/apt
+4586,1.0,3.0,160,Near North Side,4,Private room
+4591,2.0,2.0,275,Near North Side,4,Entire home/apt
+4594,3.0,5.0,264,Near North Side,8,Entire home/apt
+4596,1.0,2.0,88,Near North Side,4,Private room
+4598,2.0,3.0,280,Near North Side,4,Entire home/apt
+4599,1.0,1.0,150,Near North Side,4,Private room
+4600,1.0,1.0,249,Near North Side,3,Entire home/apt
+4601,1.0,1.0,120,Near North Side,4,Entire home/apt
+4602,2.0,2.0,200,Near North Side,4,Entire home/apt
+4604,1.0,2.0,279,Near North Side,4,Private room
+4605,2.0,2.0,165,Near North Side,6,Entire home/apt
+4607,1.0,1.0,90,Near North Side,2,Private room
+4608,1.0,1.0,111,Near North Side,2,Private room
+4609,1.0,1.0,229,Near North Side,2,Private room
+4610,2.0,4.0,188,Near North Side,6,Entire home/apt
+4612,4.0,9.0,470,Near North Side,16,Entire home/apt
+4613,1.0,1.0,164,Near North Side,2,Entire home/apt
+4614,2.0,2.0,474,Near North Side,6,Entire home/apt
+4615,1.0,1.0,130,Near North Side,2,Entire home/apt
+4616,3.0,5.0,313,Near North Side,10,Entire home/apt
+4617,1.0,1.0,135,Near North Side,2,Entire home/apt
+4618,2.0,2.0,102,Near North Side,4,Entire home/apt
+4619,1.0,1.0,76,Near North Side,2,Entire home/apt
+4620,3.0,3.0,427,Near North Side,8,Entire home/apt
+4621,2.0,2.0,90,Near North Side,4,Entire home/apt
+4623,6.0,14.0,920,Near North Side,16,Entire home/apt
+4624,2.0,3.0,114,Near North Side,4,Private room
+4626,1.0,1.0,55,Near North Side,2,Entire home/apt
+4627,1.0,1.0,83,Near North Side,4,Entire home/apt
+4631,1.0,2.0,120,Near North Side,2,Private room
+4632,2.0,2.0,350,Near North Side,6,Entire home/apt
+4633,1.0,1.0,105,Near North Side,3,Entire home/apt
+4634,1.0,2.0,101,Near North Side,4,Entire home/apt
+4637,2.0,3.0,191,Near North Side,4,Entire home/apt
+4638,1.0,1.0,114,Near North Side,4,Entire home/apt
+4639,1.0,1.0,99,Near North Side,3,Entire home/apt
+4640,1.0,2.0,120,Near North Side,2,Private room
+4642,1.0,1.0,100,Near North Side,2,Entire home/apt
+4643,1.0,1.0,169,Near North Side,2,Entire home/apt
+4644,2.0,4.0,285,Near North Side,6,Private room
+4645,1.0,1.0,250,Near North Side,4,Entire home/apt
+4646,1.0,1.0,89,Near North Side,2,Private room
+4647,1.0,2.0,129,Near North Side,2,Private room
+4648,1.0,1.0,78,Near North Side,2,Entire home/apt
+4649,1.0,1.0,150,Near North Side,2,Entire home/apt
+4650,3.0,4.0,699,Near North Side,8,Entire home/apt
+4651,1.0,1.0,100,Near North Side,2,Private room
+4652,2.0,3.0,210,Near North Side,6,Entire home/apt
+4654,2.0,2.0,288,Near North Side,5,Entire home/apt
+4655,2.0,3.0,201,Near North Side,6,Entire home/apt
+4656,4.0,6.0,785,Near North Side,13,Entire home/apt
+4657,2.0,3.0,242,Near North Side,6,Entire home/apt
+4658,4.0,5.0,386,Near North Side,10,Entire home/apt
+4659,1.0,1.0,157,Near North Side,2,Entire home/apt
+4660,1.0,1.0,150,Near North Side,2,Entire home/apt
+4661,1.0,1.0,69,Near North Side,2,Entire home/apt
+4662,1.0,1.0,170,Near North Side,2,Entire home/apt
+4663,1.0,1.0,150,Near North Side,2,Entire home/apt
+4664,1.0,1.0,183,Near North Side,2,Entire home/apt
+4666,1.0,1.0,150,Near North Side,2,Entire home/apt
+4670,1.0,1.0,140,Near North Side,2,Entire home/apt
+4671,1.0,1.0,185,Near North Side,2,Entire home/apt
+4672,1.0,2.0,240,Near North Side,4,Entire home/apt
+4673,1.0,1.0,160,Near North Side,2,Entire home/apt
+4674,1.0,1.0,130,Near North Side,2,Entire home/apt
+4675,2.0,2.0,500,Near North Side,4,Entire home/apt
+4679,1.0,1.0,166,Near North Side,2,Entire home/apt
+4680,4.0,4.0,372,Near North Side,10,Entire home/apt
+4681,1.0,1.0,155,Near North Side,2,Entire home/apt
+4683,1.0,1.0,95,Near North Side,2,Entire home/apt
+4684,1.0,1.0,165,Near North Side,2,Entire home/apt
+4685,8.0,11.0,742,Near North Side,16,Entire home/apt
+4686,2.0,2.0,255,Near North Side,4,Entire home/apt
+4687,2.0,3.0,625,Near North Side,4,Entire home/apt
+4688,3.0,4.0,350,Near North Side,6,Entire home/apt
+4689,1.0,1.0,162,Near North Side,2,Entire home/apt
+4690,1.0,1.0,115,Near North Side,4,Entire home/apt
+4691,1.0,1.0,157,Near North Side,2,Entire home/apt
+4692,1.0,1.0,153,Near North Side,2,Entire home/apt
+4693,1.0,2.0,114,Near North Side,3,Private room
+4694,1.0,1.0,150,Near North Side,2,Entire home/apt
+4695,1.0,1.0,141,Near North Side,2,Entire home/apt
+4699,1.0,1.0,144,Near North Side,2,Entire home/apt
+4700,1.0,1.0,168,Near North Side,2,Entire home/apt
+4701,4.0,5.0,175,Near North Side,11,Entire home/apt
+4702,1.0,1.0,156,Near North Side,2,Entire home/apt
+4703,2.0,2.0,200,Near North Side,4,Entire home/apt
+4704,1.0,1.0,155,Near North Side,2,Entire home/apt
+4709,2.0,2.0,234,Near North Side,4,Entire home/apt
+4710,1.0,1.0,159,Near North Side,2,Entire home/apt
+4711,1.0,1.0,110,Near North Side,2,Private room
+4713,1.0,1.0,143,Near North Side,2,Entire home/apt
+4714,1.0,1.0,150,Near North Side,2,Entire home/apt
+4715,1.0,1.0,245,Near North Side,2,Private room
+4716,1.0,2.0,264,Near North Side,2,Private room
+4717,1.0,1.0,283,Near North Side,2,Private room
+4718,1.0,1.0,302,Near North Side,2,Private room
+4719,1.0,1.0,172,Near North Side,2,Entire home/apt
+4720,1.0,1.0,183,Near North Side,2,Entire home/apt
+4721,1.0,1.0,175,Near North Side,2,Entire home/apt
+4722,1.0,1.0,84,Near North Side,2,Private room
+4723,1.0,1.0,89,Near North Side,2,Private room
+4724,1.0,1.0,101,Near North Side,2,Private room
+4725,1.0,2.0,102,Near North Side,4,Private room
+4726,1.0,1.0,155,Near North Side,2,Private room
+4729,1.0,1.0,55,Near North Side,1,Private room
+4731,1.0,2.0,102,Near North Side,4,Entire home/apt
+4732,1.0,1.0,95,Near North Side,3,Entire home/apt
+4733,1.0,1.0,189,Near North Side,2,Entire home/apt
+4734,2.0,2.0,187,Near North Side,4,Entire home/apt
+4735,1.0,1.0,95,Near North Side,3,Entire home/apt
+4736,1.0,1.0,75,Near North Side,3,Entire home/apt
+4737,1.0,1.0,79,Near North Side,2,Entire home/apt
+4740,1.0,1.0,150,Near North Side,2,Entire home/apt
+4741,2.0,2.0,110,Near North Side,2,Entire home/apt
+4742,1.0,1.0,150,Near North Side,3,Entire home/apt
+4743,1.0,1.0,152,Near North Side,2,Entire home/apt
+4744,1.0,1.0,153,Near North Side,2,Entire home/apt
+4745,1.0,1.0,95,Near North Side,2,Entire home/apt
+4746,1.0,1.0,72,Near North Side,2,Private room
+4747,1.0,1.0,130,Near North Side,2,Entire home/apt
+4748,1.0,1.0,275,Near North Side,2,Private room
+4749,1.0,1.0,295,Near North Side,2,Private room
+4750,1.0,2.0,295,Near North Side,4,Private room
+4751,1.0,1.0,355,Near North Side,2,Private room
+4752,1.0,2.0,335,Near North Side,4,Private room
+4753,1.0,1.0,325,Near North Side,2,Private room
+4754,1.0,1.0,375,Near North Side,2,Private room
+4755,1.0,1.0,695,Near North Side,2,Private room
+4756,2.0,3.0,1195,Near North Side,6,Private room
+4757,1.0,1.0,79,Near North Side,3,Entire home/apt
+4758,2.0,2.0,85,Near North Side,3,Entire home/apt
+4759,2.0,2.0,175,Near North Side,4,Entire home/apt
+4760,2.0,2.0,190,Near North Side,4,Entire home/apt
+4761,2.0,2.0,185,Near North Side,4,Entire home/apt
+4762,1.0,1.0,151,Near North Side,2,Entire home/apt
+4763,1.0,1.0,160,Near North Side,2,Entire home/apt
+4764,2.0,2.0,220,Near North Side,4,Entire home/apt
+4765,1.0,1.0,143,Near North Side,2,Entire home/apt
+4766,1.0,1.0,150,Near North Side,2,Entire home/apt
+4767,2.0,2.0,205,Near North Side,5,Entire home/apt
+4768,1.0,1.0,160,Near North Side,2,Entire home/apt
+4769,1.0,2.0,101,Near North Side,4,Entire home/apt
+4770,2.0,2.0,210,Near North Side,4,Entire home/apt
+4771,1.0,1.0,150,Near North Side,2,Entire home/apt
+4774,2.0,2.0,180,Near North Side,4,Entire home/apt
+4775,1.0,1.0,320,Near North Side,2,Entire home/apt
+4776,1.0,1.0,89,Near North Side,3,Entire home/apt
+4777,1.0,1.0,85,Near North Side,3,Entire home/apt
+4778,12.0,15.0,1273,Near North Side,16,Entire home/apt
+4779,1.0,1.0,100,Near North Side,3,Entire home/apt
+4780,2.0,2.0,260,Near North Side,4,Entire home/apt
+4781,2.0,2.0,132,Near North Side,4,Entire home/apt
+4782,7.0,7.0,429,Near North Side,16,Entire home/apt
+4783,1.0,1.0,177,Near North Side,2,Entire home/apt
+4784,1.0,1.0,167,Near North Side,2,Entire home/apt
+4785,1.0,1.0,48,Near North Side,1,Private room
+4786,1.0,1.0,48,Near North Side,1,Private room
+4787,1.0,1.0,100,Near North Side,4,Entire home/apt
+4788,1.0,1.0,48,Near North Side,1,Private room
+4789,1.0,1.0,48,Near North Side,1,Private room
+4790,2.0,2.0,200,Near North Side,4,Entire home/apt
+4791,1.0,1.0,168,Near North Side,2,Entire home/apt
+4792,1.0,1.0,94,Near North Side,2,Private room
+4793,4.0,13.0,552,Near North Side,14,Entire home/apt
+4794,1.0,1.0,150,Near North Side,2,Entire home/apt
+4795,3.0,4.0,315,Near North Side,8,Entire home/apt
+4796,1.0,1.0,131,Near North Side,2,Entire home/apt
+4797,2.0,2.0,217,Near North Side,4,Entire home/apt
+4798,1.0,2.0,197,Near North Side,4,Entire home/apt
+4800,2.0,3.0,263,Near North Side,6,Entire home/apt
+4801,1.0,2.0,215,Near North Side,4,Entire home/apt
+4802,2.0,3.0,289,Near North Side,6,Entire home/apt
+4803,1.0,1.0,95,Near North Side,3,Entire home/apt
+4804,3.0,4.0,850,Near North Side,6,Entire home/apt
+4805,2.0,2.0,220,Near North Side,4,Entire home/apt
+4806,2.0,2.0,210,Near North Side,4,Entire home/apt
+4807,1.0,2.0,72,Near North Side,4,Entire home/apt
+4808,1.0,3.0,97,Near North Side,5,Entire home/apt
+4810,1.0,1.0,164,Near North Side,2,Entire home/apt
+4811,3.0,3.0,375,Near North Side,6,Entire home/apt
+4812,1.0,1.0,350,Near North Side,2,Entire home/apt
+4813,3.0,3.0,370,Near North Side,7,Entire home/apt
+4814,1.0,1.0,154,Near North Side,2,Entire home/apt
+4815,3.0,3.0,375,Near North Side,7,Entire home/apt
+4816,1.0,1.0,123,Near North Side,2,Entire home/apt
+4817,1.0,1.0,69,Near North Side,2,Entire home/apt
+4819,1.0,1.0,60,Near North Side,2,Entire home/apt
+4820,1.0,1.0,79,Near North Side,3,Entire home/apt
+4821,1.0,1.0,173,Near North Side,2,Entire home/apt
+4822,1.0,2.0,131,Near North Side,4,Entire home/apt
+4823,1.0,1.0,86,Near North Side,2,Entire home/apt
+4824,2.0,2.0,238,Near North Side,5,Entire home/apt
+4826,1.0,1.0,70,Near North Side,3,Entire home/apt
+4827,1.0,1.0,115,Near North Side,2,Entire home/apt
+4828,1.0,1.0,65,Near North Side,2,Private room
+4829,1.0,1.0,60,Near North Side,2,Private room
+4830,2.0,2.0,103,Near North Side,4,Entire home/apt
+4831,1.0,1.0,103,Near North Side,2,Entire home/apt
+4832,2.0,5.0,154,Near North Side,10,Entire home/apt
+4833,2.0,5.0,130,Near North Side,10,Entire home/apt
+4834,2.0,5.0,154,Near North Side,10,Entire home/apt
+4835,8.0,20.0,1231,Near North Side,16,Entire home/apt
+4836,4.0,10.0,591,Near North Side,16,Entire home/apt
+4837,1.0,2.0,228,Near North Side,3,Entire home/apt
+4838,2.0,4.0,288,Near North Side,5,Entire home/apt
+4840,4.0,9.0,540,Near North Side,16,Entire home/apt
+4841,2.0,4.0,172,Near North Side,10,Entire home/apt
+4842,6.0,11.0,535,Near North Side,4,Entire home/apt
+4843,5.0,9.0,535,Near North Side,16,Entire home/apt
+4844,2.0,3.0,130,Near North Side,4,Entire home/apt
+4845,5.0,11.0,499,Near North Side,16,Entire home/apt
+4846,2.0,3.0,165,Near North Side,6,Entire home/apt
+4849,2.0,3.0,299,Near North Side,7,Entire home/apt
+4850,1.0,1.0,250,Near North Side,2,Entire home/apt
+4851,2.0,2.0,181,Near North Side,4,Entire home/apt
+4853,1.0,1.0,249,Near North Side,3,Entire home/apt
+4854,1.0,1.0,157,Near North Side,2,Entire home/apt
+4855,1.0,1.0,124,Near North Side,2,Entire home/apt
+4859,3.0,3.0,394,Near North Side,6,Entire home/apt
+4860,3.0,3.0,354,Near North Side,6,Entire home/apt
+4861,1.0,1.0,75,Near North Side,3,Entire home/apt
+4862,1.0,1.0,79,Near North Side,3,Entire home/apt
+4863,1.0,2.0,69,Near North Side,3,Entire home/apt
+4867,2.0,3.0,138,Near North Side,6,Entire home/apt
+4868,2.0,3.0,255,Near North Side,6,Entire home/apt
+4869,1.0,1.0,70,Near North Side,3,Entire home/apt
+4870,4.0,5.0,999,Near North Side,14,Entire home/apt
+4871,1.0,1.0,109,Near North Side,3,Entire home/apt
+4872,1.0,1.0,75,Near North Side,3,Entire home/apt
+4873,1.0,1.0,164,Near North Side,2,Entire home/apt
+4874,2.0,2.0,132,Near North Side,4,Entire home/apt
+4875,2.0,2.0,267,Near North Side,4,Entire home/apt
+4877,3.0,5.0,686,Near North Side,10,Entire home/apt
+4878,1.0,1.0,229,Near North Side,2,Private room
+4879,1.0,1.0,229,Near North Side,2,Private room
+4880,1.0,1.0,79,Near North Side,3,Entire home/apt
+4881,2.0,2.0,400,Near North Side,5,Entire home/apt
+4882,1.0,1.0,229,Near North Side,2,Private room
+4883,1.0,2.0,279,Near North Side,2,Private room
+4884,1.0,2.0,329,Near North Side,4,Private room
+4885,2.0,2.0,189,Near North Side,4,Entire home/apt
+4886,4.0,12.0,637,Near North Side,16,Entire home/apt
+4887,4.0,4.0,685,Near North Side,12,Entire home/apt
+4888,1.0,1.0,200,Near North Side,3,Entire home/apt
+4889,1.0,1.0,46,Near North Side,2,Entire home/apt
+4890,4.0,6.0,1486,Near North Side,12,Entire home/apt
+4892,2.0,3.0,113,Near North Side,6,Entire home/apt
+4893,1.0,1.0,110,Near North Side,2,Entire home/apt
+4894,1.0,1.0,79,Near North Side,3,Entire home/apt
+4895,1.0,2.0,136,Near North Side,4,Entire home/apt
+4896,1.0,1.0,137,Near North Side,2,Entire home/apt
+4897,1.0,1.0,148,Near North Side,2,Entire home/apt
+4898,2.0,2.0,130,Near North Side,3,Entire home/apt
+4900,1.0,1.0,176,Near North Side,2,Entire home/apt
+4901,1.0,1.0,206,Near North Side,2,Entire home/apt
+4902,1.0,1.0,150,Near North Side,2,Entire home/apt
+4903,1.0,1.0,132,Near North Side,2,Entire home/apt
+4904,1.0,1.0,142,Near North Side,2,Entire home/apt
+4905,1.0,1.0,151,Near North Side,2,Entire home/apt
+4906,1.0,1.0,151,Near North Side,2,Entire home/apt
+4910,1.0,1.0,157,Near North Side,4,Entire home/apt
+4911,1.0,1.0,163,Near North Side,2,Entire home/apt
+4912,1.0,1.0,163,Near North Side,2,Entire home/apt
+4913,2.0,2.0,184,Near North Side,4,Entire home/apt
+4914,3.0,5.0,657,Near North Side,10,Entire home/apt
+4915,2.0,2.0,190,Near North Side,4,Entire home/apt
+4916,1.0,1.0,1500,Near North Side,2,Entire home/apt
+4920,2.0,2.0,533,Near North Side,5,Entire home/apt
+4921,1.0,2.0,189,Near North Side,4,Entire home/apt
+4922,1.0,2.0,169,Near North Side,4,Entire home/apt
+4923,3.0,6.0,248,Near North Side,14,Entire home/apt
+4925,2.0,2.0,194,Near North Side,4,Entire home/apt
+4927,2.0,3.0,223,Near North Side,6,Entire home/apt
+4928,1.0,1.0,120,Near North Side,2,Entire home/apt
+4929,2.0,2.0,680,Near North Side,4,Entire home/apt
+4933,2.0,3.0,133,Near North Side,6,Entire home/apt
+4934,1.0,1.0,110,Near North Side,4,Entire home/apt
+4935,1.0,2.0,161,Near North Side,4,Entire home/apt
+4936,1.0,2.0,175,Near North Side,4,Entire home/apt
+4937,1.0,2.0,158,Near North Side,4,Entire home/apt
+4940,4.0,11.0,571,Near North Side,13,Entire home/apt
+4941,6.0,12.0,936,Near North Side,16,Entire home/apt
+4942,1.0,1.0,165,Near North Side,2,Entire home/apt
+4943,1.0,1.0,160,Near North Side,2,Entire home/apt
+4944,2.0,3.0,146,Near North Side,6,Entire home/apt
+4946,2.0,5.0,244,Near North Side,7,Entire home/apt
+4948,2.0,2.0,90,Near North Side,5,Entire home/apt
+4949,1.0,2.0,151,Near North Side,4,Entire home/apt
+4952,2.0,2.0,184,Near North Side,4,Entire home/apt
+4953,2.0,2.0,194,Near North Side,4,Entire home/apt
+4954,1.0,1.0,182,Near North Side,4,Entire home/apt
+4955,1.0,1.0,170,Near North Side,4,Entire home/apt
+4956,1.0,1.0,150,Near North Side,2,Entire home/apt
+4960,1.0,1.0,160,Near North Side,2,Entire home/apt
+4961,1.0,1.0,200,Near North Side,2,Entire home/apt
+4962,1.0,1.0,156,Near North Side,4,Entire home/apt
+4963,2.0,3.0,110,Near North Side,4,Entire home/apt
+4964,1.0,1.0,107,Near North Side,4,Entire home/apt
+4966,2.0,2.0,223,Near North Side,4,Entire home/apt
+4967,1.0,1.0,78,Near North Side,2,Entire home/apt
+4968,2.0,2.0,235,Near North Side,4,Entire home/apt
+4969,3.0,3.0,235,Near North Side,6,Entire home/apt
+4970,2.0,2.0,183,Near North Side,4,Entire home/apt
+4971,2.0,2.0,194,Near North Side,4,Entire home/apt
+4972,1.0,1.0,178,Near North Side,2,Entire home/apt
+4975,2.0,2.0,223,Near North Side,4,Entire home/apt
+4976,3.0,3.0,236,Near North Side,6,Entire home/apt
+4977,1.0,1.0,149,Near North Side,2,Entire home/apt
+4978,1.0,1.0,155,Near North Side,2,Private room
+4979,2.0,2.0,165,Near North Side,4,Entire home/apt
+4980,1.0,1.0,131,Near North Side,4,Entire home/apt
+4981,2.0,2.0,204,Near North Side,6,Entire home/apt
+4983,2.0,2.0,161,Near North Side,4,Entire home/apt
+4984,1.0,1.0,134,Near North Side,2,Entire home/apt
+4985,2.0,2.0,221,Near North Side,4,Entire home/apt
+4986,1.0,1.0,164,Near North Side,4,Entire home/apt
+4990,2.0,2.0,192,Near North Side,6,Entire home/apt
+4991,1.0,1.0,135,Near North Side,2,Entire home/apt
+4992,1.0,1.0,204,Near North Side,2,Entire home/apt
+4993,1.0,1.0,365,Near North Side,4,Entire home/apt
+4994,1.0,1.0,132,Near North Side,2,Entire home/apt
+4995,1.0,2.0,174,Near North Side,3,Entire home/apt
+4996,2.0,4.0,219,Near North Side,5,Entire home/apt
+4999,1.0,1.0,121,Near North Side,2,Entire home/apt
+5001,1.0,2.0,227,Near North Side,3,Entire home/apt
+5002,1.0,1.0,140,Near North Side,2,Entire home/apt
+5004,2.0,2.0,217,Near North Side,6,Entire home/apt
+5005,1.0,1.0,276,Near North Side,3,Entire home/apt
+5006,1.0,1.0,131,Near North Side,2,Entire home/apt
+5007,2.0,2.0,225,Near North Side,6,Entire home/apt
+5009,3.0,3.0,200,Near North Side,4,Entire home/apt
+5012,1.0,1.0,158,Near North Side,2,Entire home/apt
+5017,2.0,3.0,155,Near North Side,4,Entire home/apt
+5018,2.0,2.0,999,Near North Side,9,Entire home/apt
+5019,1.0,1.0,133,Near North Side,2,Entire home/apt
+5021,1.0,1.0,70,Near North Side,3,Entire home/apt
+5024,3.0,6.0,111,Near North Side,10,Entire home/apt
+5026,1.0,1.0,98,Near North Side,2,Entire home/apt
+5027,2.0,2.0,194,Near North Side,4,Entire home/apt
+5028,11.0,20.0,1282,Near North Side,16,Entire home/apt
+5030,2.0,2.0,198,Near North Side,4,Entire home/apt
+5031,1.0,1.0,95,Near North Side,3,Entire home/apt
+5032,2.0,2.0,184,Near North Side,4,Entire home/apt
+5033,1.0,1.0,244,Near North Side,16,Entire home/apt
+5034,1.0,4.0,150,Near North Side,4,Private room
+5035,2.0,2.0,75,Near North Side,4,Entire home/apt
+5036,1.0,4.0,144,Near North Side,3,Entire home/apt
+5037,2.0,2.0,203,Near North Side,5,Entire home/apt
+5039,2.0,2.0,145,Near North Side,4,Entire home/apt
+5040,1.0,2.0,183,Near North Side,5,Entire home/apt
+5041,2.0,2.0,214,Near North Side,4,Entire home/apt
+5042,1.0,2.0,154,Near North Side,4,Entire home/apt
+5043,2.0,2.0,178,Near North Side,4,Entire home/apt
+5044,1.0,1.0,138,Near North Side,2,Entire home/apt
+5046,2.0,2.0,186,Near North Side,4,Entire home/apt
+5047,1.0,1.0,96,Near North Side,3,Entire home/apt
+5048,1.0,1.0,142,Near North Side,2,Entire home/apt
+5051,1.0,1.0,118,Near North Side,2,Entire home/apt
+5052,1.0,1.0,138,Near North Side,3,Entire home/apt
+5053,1.0,1.0,128,Near North Side,2,Entire home/apt
+5054,2.0,2.0,193,Near North Side,4,Entire home/apt
+5055,2.0,2.0,207,Near North Side,4,Entire home/apt
+5056,6.0,10.0,1800,Near North Side,16,Private room
+5057,2.0,2.0,329,Near North Side,4,Entire home/apt
+5058,1.0,1.0,132,Near North Side,2,Entire home/apt
+5060,2.0,4.0,750,Near North Side,8,Entire home/apt
+5061,3.0,4.0,1199,Near North Side,8,Entire home/apt
+5062,2.0,4.0,347,Near North Side,7,Entire home/apt
+5063,1.0,1.0,156,Near North Side,4,Entire home/apt
+5064,1.0,1.0,276,Near North Side,2,Entire home/apt
+5065,1.0,1.0,209,Near North Side,2,Entire home/apt
+5066,1.0,2.0,175,Near North Side,4,Entire home/apt
+5067,2.0,3.0,268,Near North Side,6,Entire home/apt
+5068,1.0,2.0,198,Near North Side,4,Entire home/apt
+5069,1.0,2.0,178,Near North Side,4,Entire home/apt
+5070,2.0,3.0,450,Near North Side,8,Private room
+5071,1.0,2.0,168,Near North Side,4,Entire home/apt
+5073,2.0,2.0,181,Near North Side,4,Entire home/apt
+5074,1.0,1.0,136,Near North Side,2,Entire home/apt
+5076,1.0,1.0,136,Near North Side,2,Entire home/apt
+5077,1.0,1.0,151,Near North Side,2,Entire home/apt
+5078,1.0,1.0,140,Near North Side,2,Entire home/apt
+5079,1.0,1.0,154,Near North Side,2,Entire home/apt
+5080,1.0,1.0,147,Near North Side,2,Entire home/apt
+5082,1.0,1.0,125,Near North Side,2,Entire home/apt
+5083,2.0,2.0,401,Near North Side,4,Private room
+5084,1.0,1.0,201,Near North Side,2,Private room
+5085,1.0,1.0,150,Near North Side,2,Entire home/apt
+5087,2.0,2.0,208,Near North Side,4,Entire home/apt
+5088,1.0,1.0,999,Near North Side,2,Private room
+5089,2.0,2.0,258,Near North Side,4,Entire home/apt
+5090,2.0,2.0,258,Near North Side,4,Entire home/apt
+5091,1.0,1.0,84,Near North Side,4,Entire home/apt
+5092,1.0,1.0,101,Near North Side,4,Entire home/apt
+5093,1.0,1.0,109,Near North Side,4,Entire home/apt
+5096,3.0,3.0,601,Near North Side,6,Private room
+5097,3.0,3.0,601,Near North Side,6,Private room
+5098,2.0,2.0,401,Near North Side,4,Private room
+5099,1.0,1.0,201,Near North Side,2,Private room
+5103,1.0,2.0,129,Near North Side,4,Entire home/apt
+5104,1.0,2.0,136,Near North Side,4,Entire home/apt
+5106,2.0,2.0,181,Near North Side,4,Entire home/apt
+5107,1.0,1.0,128,Near North Side,2,Entire home/apt
+5108,1.0,1.0,129,Near North Side,2,Entire home/apt
+5109,1.0,1.0,132,Near North Side,2,Entire home/apt
+5110,1.0,1.0,178,Near North Side,2,Entire home/apt
+5111,1.0,1.0,138,Near North Side,2,Entire home/apt
+5112,1.0,1.0,153,Near North Side,2,Entire home/apt
+5113,1.0,1.0,101,Near North Side,2,Entire home/apt
+5114,1.0,1.0,178,Near North Side,2,Entire home/apt
+5115,1.0,1.0,199,Near North Side,2,Entire home/apt
+5116,2.0,2.0,178,Near North Side,4,Entire home/apt
+5117,2.0,2.0,201,Near North Side,5,Entire home/apt
+5118,1.0,1.0,128,Near North Side,2,Entire home/apt
+5119,2.0,2.0,420,Near North Side,6,Entire home/apt
+5120,2.0,2.0,407,Near North Side,6,Entire home/apt
+5121,2.0,2.0,412,Near North Side,6,Entire home/apt
+5122,2.0,2.0,425,Near North Side,6,Entire home/apt
+5123,3.0,8.0,166,Near North Side,14,Entire home/apt
+5124,1.0,1.0,160,Near North Side,2,Entire home/apt
+5125,1.0,1.0,144,Near North Side,2,Entire home/apt
+5126,1.0,1.0,147,Near North Side,2,Entire home/apt
+5127,2.0,2.0,262,Near North Side,6,Entire home/apt
+5128,4.0,10.0,576,Near North Side,13,Entire home/apt
+5129,2.0,3.0,118,Near North Side,7,Entire home/apt
+5130,1.0,2.0,169,Near North Side,5,Entire home/apt
+5131,2.0,2.0,275,Near North Side,6,Entire home/apt
+5132,3.0,3.0,518,Near North Side,8,Entire home/apt
+5133,2.0,2.0,154,Near North Side,4,Entire home/apt
+5134,1.0,1.0,185,Near North Side,2,Entire home/apt
+5135,1.0,1.0,258,Near North Side,4,Entire home/apt
+5136,2.0,2.0,275,Near North Side,6,Entire home/apt
+5137,2.0,2.0,274,Near North Side,6,Entire home/apt
+5138,1.0,2.0,258,Near North Side,4,Entire home/apt
+5139,2.0,2.0,275,Near North Side,6,Entire home/apt
+5140,2.0,2.0,275,Near North Side,6,Entire home/apt
+5141,1.0,1.0,150,Near North Side,1,Entire home/apt
+5142,1.0,2.0,355,Near North Side,4,Entire home/apt
+5144,1.0,1.0,239,Near North Side,3,Entire home/apt
+5145,1.0,1.0,150,Near North Side,2,Entire home/apt
+5146,5.0,5.0,1348,Near North Side,12,Entire home/apt
+5147,2.0,2.0,232,Near North Side,4,Entire home/apt
+5148,2.0,4.0,155,Near North Side,9,Entire home/apt
+5149,2.0,3.0,66,Near North Side,6,Entire home/apt
+5150,3.0,6.0,249,Near North Side,13,Entire home/apt
+5151,4.0,4.0,640,Near North Side,8,Entire home/apt
+5152,3.0,4.0,374,Near North Side,8,Entire home/apt
+5153,4.0,8.0,478,Near North Side,16,Entire home/apt
+5154,1.0,2.0,150,Near North Side,4,Entire home/apt
+5155,1.0,3.0,131,Near North Side,8,Entire home/apt
+5156,7.0,17.0,557,Near North Side,16,Entire home/apt
+5157,2.0,5.0,309,Near North Side,14,Entire home/apt
+5158,4.0,5.0,739,Near North Side,10,Entire home/apt
+5159,4.0,6.0,739,Near North Side,12,Entire home/apt
+5160,4.0,6.0,505,Near North Side,12,Entire home/apt
+5161,5.0,7.0,819,Near North Side,14,Entire home/apt
+5162,2.0,2.0,120,Near North Side,4,Entire home/apt
+5163,3.0,4.0,419,Near North Side,8,Entire home/apt
+5164,3.0,4.0,339,Near North Side,6,Entire home/apt
+5165,1.0,1.0,177,Near North Side,5,Entire home/apt
+5166,1.0,1.0,113,Near North Side,4,Entire home/apt
+5168,1.0,1.0,96,Near North Side,2,Entire home/apt
+5170,2.0,2.0,210,Near North Side,8,Entire home/apt
+5171,3.0,3.0,411,Near North Side,8,Entire home/apt
+5172,1.0,2.0,195,Near North Side,4,Private room
+5173,2.0,2.0,332,Near North Side,6,Entire home/apt
+5174,2.0,2.0,226,Near North Side,4,Entire home/apt
+5175,1.0,1.0,225,Near North Side,4,Entire home/apt
+5177,3.0,3.0,466,Near North Side,8,Entire home/apt
+5179,3.0,3.0,419,Near North Side,7,Entire home/apt
+5180,3.0,3.0,521,Near North Side,8,Entire home/apt
+5181,1.0,1.0,120,Near North Side,2,Entire home/apt
+5183,2.0,3.0,365,Near North Side,6,Entire home/apt
+5184,1.0,1.0,251,Near North Side,2,Entire home/apt
+5185,2.0,2.0,233,Near North Side,4,Entire home/apt
+5186,2.0,3.0,302,Near North Side,6,Entire home/apt
+5187,2.0,3.0,426,Near North Side,6,Entire home/apt
+5188,3.0,3.0,443,Near North Side,6,Entire home/apt
+5190,2.0,4.0,155,Near North Side,9,Entire home/apt
+5191,2.0,2.0,95,Near North Side,2,Entire home/apt
+5192,3.0,3.0,375,Near North Side,8,Entire home/apt
+5193,2.0,2.0,178,Near North Side,4,Entire home/apt
+5194,1.0,1.0,111,Near North Side,2,Entire home/apt
+5195,1.0,1.0,150,Near North Side,2,Entire home/apt
+5196,2.0,2.0,309,Near North Side,4,Entire home/apt
+5197,4.0,6.0,419,Near North Side,12,Entire home/apt
+5198,5.0,6.0,1513,Near North Side,12,Entire home/apt
+5199,2.0,2.0,349,Near North Side,6,Entire home/apt
+5200,2.0,4.0,224,Near North Side,7,Entire home/apt
+5201,2.0,4.0,198,Near North Side,6,Entire home/apt
+5203,4.0,8.0,556,Near North Side,12,Entire home/apt
+5204,1.0,1.0,63,Near North Side,2,Private room
+5205,2.0,2.0,334,Near North Side,5,Entire home/apt
+5206,1.0,1.0,59,Near North Side,2,Private room
+5207,1.0,1.0,59,Near North Side,2,Private room
+5208,1.0,1.0,59,Near North Side,2,Private room
+5209,1.0,1.0,99,Near North Side,2,Private room
+5210,1.0,1.0,63,Near North Side,2,Private room
+5211,1.0,1.0,76,Near North Side,2,Private room
+5212,1.0,1.0,99,Near North Side,2,Private room
+5213,1.0,1.0,99,Near North Side,2,Private room
+5214,2.0,2.0,350,Near North Side,5,Entire home/apt
+5215,1.0,1.0,81,Near North Side,2,Private room
+5216,1.0,1.0,99,Near North Side,2,Private room
+5217,1.0,1.0,95,Near North Side,2,Private room
+5218,1.0,1.0,59,Near North Side,2,Private room
+5219,5.0,6.0,807,Near North Side,12,Entire home/apt
+5220,1.0,1.0,88,Near North Side,3,Entire home/apt
+5221,2.0,2.0,343,Near North Side,5,Entire home/apt
+5222,1.0,1.0,150,Near North Side,3,Entire home/apt
+5224,1.0,1.0,132,Near North Side,3,Entire home/apt
+5225,2.0,2.0,200,Near North Side,4,Entire home/apt
+5226,2.0,2.0,209,Near North Side,4,Entire home/apt
+5227,2.0,2.0,190,Near North Side,4,Entire home/apt
+5228,1.0,1.0,155,Near North Side,2,Entire home/apt
+5230,2.0,2.0,440,Near North Side,5,Entire home/apt
+5231,1.0,2.0,152,Near North Side,4,Entire home/apt
+5232,1.0,1.0,199,Near North Side,4,Entire home/apt
+5233,3.0,5.0,302,Near North Side,11,Entire home/apt
+5234,1.0,1.0,98,Near North Side,2,Private room
+5235,1.0,1.0,170,Near North Side,2,Entire home/apt
+5236,2.0,4.0,175,Near North Side,9,Entire home/apt
+5237,1.0,1.0,122,Near North Side,2,Entire home/apt
+5238,1.0,1.0,191,Near North Side,2,Entire home/apt
+5239,3.0,7.0,397,Near North Side,10,Entire home/apt
+5240,1.0,1.0,153,Near North Side,2,Entire home/apt
+5241,1.0,2.0,122,Near North Side,3,Private room
+5242,1.0,1.0,175,Near North Side,2,Entire home/apt
+5243,1.0,1.0,148,Near North Side,2,Entire home/apt
+5245,1.0,1.0,124,Near North Side,2,Private room
+5246,1.0,1.0,118,Near North Side,2,Private room
+5247,1.0,1.0,117,Near North Side,2,Private room
+5248,5.0,7.0,2880,Near North Side,12,Entire home/apt
+5249,2.0,2.0,72,Near North Side,4,Entire home/apt
+5250,1.0,1.0,127,Near North Side,2,Private room
+5251,1.0,1.0,94,Near North Side,2,Private room
+5252,1.0,1.0,130,Near North Side,2,Private room
+5253,1.0,1.0,130,Near North Side,2,Private room
+5254,1.0,1.0,63,Near North Side,2,Entire home/apt
+5255,1.0,1.0,421,Near North Side,2,Entire home/apt
+5256,1.0,1.0,103,Near North Side,2,Private room
+5257,2.0,2.0,210,Near North Side,4,Entire home/apt
+5258,1.0,1.0,189,Near North Side,2,Entire home/apt
+5259,2.0,3.0,337,Near North Side,8,Entire home/apt
+5260,1.0,2.0,166,Near North Side,4,Entire home/apt
+5261,1.0,1.0,63,Near North Side,2,Entire home/apt
+5262,1.0,1.0,58,Near North Side,2,Entire home/apt
+5263,1.0,1.0,174,Near North Side,2,Entire home/apt
+5264,1.0,1.0,169,Near North Side,2,Entire home/apt
+5265,2.0,2.0,203,Near North Side,4,Entire home/apt
+5266,1.0,1.0,133,Near North Side,2,Entire home/apt
+5267,1.0,1.0,1056,Near North Side,2,Private room
+5268,2.0,2.0,275,Near North Side,6,Entire home/apt
+5269,1.0,1.0,136,Near North Side,3,Entire home/apt
+5270,1.0,1.0,149,Near North Side,2,Entire home/apt
+5271,1.0,2.0,385,Near North Side,6,Entire home/apt
+5273,1.0,1.0,350,Near North Side,4,Entire home/apt
+5275,1.0,1.0,139,Near North Side,2,Entire home/apt
+5276,2.0,2.0,275,Near North Side,6,Entire home/apt
+5277,1.0,2.0,116,Near North Side,6,Entire home/apt
+5278,1.0,1.0,73,Near North Side,1,Private room
+5279,1.0,1.0,68,Near North Side,2,Entire home/apt
+5280,2.0,2.0,219,Near North Side,4,Entire home/apt
+5281,3.0,3.0,383,Near North Side,8,Entire home/apt
+5282,1.0,1.0,152,Near North Side,2,Entire home/apt
+5283,1.0,1.0,151,Near North Side,2,Entire home/apt
+5284,1.0,1.0,154,Near North Side,2,Entire home/apt
+5285,1.0,1.0,149,Near North Side,2,Entire home/apt
+5286,1.0,1.0,151,Near North Side,2,Entire home/apt
+5287,1.0,1.0,146,Near North Side,2,Entire home/apt
+5288,1.0,1.0,124,Near North Side,2,Entire home/apt
+5289,1.0,1.0,60,Near North Side,2,Entire home/apt
+5290,1.0,1.0,152,Near North Side,2,Entire home/apt
+5291,2.0,2.0,270,Near North Side,6,Entire home/apt
+5292,1.0,1.0,162,Near North Side,2,Entire home/apt
+5293,1.0,1.0,149,Near North Side,2,Entire home/apt
+5294,1.0,1.0,144,Near North Side,2,Entire home/apt
+5295,2.0,2.0,224,Near North Side,4,Entire home/apt
+5296,5.0,8.0,2057,Near North Side,10,Entire home/apt
+5298,1.0,1.0,212,Near North Side,2,Entire home/apt
+5300,1.0,1.0,132,Near North Side,4,Entire home/apt
+5301,3.0,4.0,336,Near North Side,8,Entire home/apt
+5302,1.0,1.0,140,Near North Side,2,Entire home/apt
+5303,1.0,1.0,158,Near North Side,2,Entire home/apt
+5304,1.0,1.0,153,Near North Side,2,Entire home/apt
+5305,1.0,1.0,157,Near North Side,2,Entire home/apt
+5306,1.0,1.0,152,Near North Side,2,Entire home/apt
+5307,1.0,1.0,200,Near North Side,2,Entire home/apt
+5308,2.0,2.0,244,Near North Side,4,Entire home/apt
+5309,1.0,1.0,152,Near North Side,2,Entire home/apt
+5310,1.0,1.0,153,Near North Side,2,Entire home/apt
+5311,1.0,1.0,124,Near North Side,2,Entire home/apt
+5312,3.0,4.0,439,Near North Side,8,Entire home/apt
+5313,3.0,3.0,294,Near North Side,6,Entire home/apt
+5314,1.0,1.0,150,Near North Side,2,Entire home/apt
+5315,2.0,2.0,69,Near North Side,4,Entire home/apt
+5317,1.0,1.0,168,Near North Side,2,Entire home/apt
+5318,2.0,2.0,270,Near North Side,4,Entire home/apt
+5319,1.0,1.0,155,Near North Side,2,Entire home/apt
+5320,1.0,2.0,221,Near North Side,2,Entire home/apt
+5321,1.0,2.0,175,Near North Side,4,Entire home/apt
+5322,1.0,1.0,183,Near North Side,2,Entire home/apt
+5323,1.0,1.0,155,Near North Side,2,Entire home/apt
+5324,1.0,1.0,100,Near North Side,2,Entire home/apt
+5326,1.0,1.0,40,Near North Side,2,Entire home/apt
+5327,1.0,1.0,143,Near North Side,2,Entire home/apt
+5328,3.0,3.0,800,Near North Side,6,Entire home/apt
+5329,4.0,9.0,468,Near North Side,16,Entire home/apt
+5330,1.0,1.0,161,Near North Side,2,Entire home/apt
+5331,1.0,1.0,150,Near North Side,4,Entire home/apt
+5332,1.0,1.0,155,Near North Side,2,Entire home/apt
+5334,1.0,1.0,140,Near North Side,2,Entire home/apt
+5335,1.0,1.0,172,Near North Side,2,Entire home/apt
+5336,1.0,1.0,158,Near North Side,2,Entire home/apt
+5337,1.0,1.0,190,Near North Side,2,Entire home/apt
+5338,1.0,1.0,190,Near North Side,2,Entire home/apt
+5339,1.0,1.0,140,Near North Side,4,Entire home/apt
+5340,1.0,1.0,163,Near North Side,2,Entire home/apt
+5341,1.0,2.0,173,Near North Side,4,Entire home/apt
+5342,2.0,2.0,178,Near North Side,5,Entire home/apt
+5343,1.0,1.0,140,Near North Side,3,Entire home/apt
+5344,1.0,2.0,169,Near North Side,3,Entire home/apt
+5345,1.0,1.0,999,Near North Side,2,Entire home/apt
+5346,1.0,1.0,158,Near North Side,2,Entire home/apt
+5347,1.0,2.0,102,Near North Side,4,Entire home/apt
+5348,2.0,3.0,189,Near North Side,6,Entire home/apt
+5349,1.0,2.0,101,Near North Side,4,Entire home/apt
+5350,1.0,2.0,99,Near North Side,4,Entire home/apt
+5351,1.0,1.0,100,Near North Side,2,Private room
+5352,1.0,1.0,61,Near North Side,2,Entire home/apt
+5353,1.0,1.0,82,Near North Side,2,Entire home/apt
+5355,3.0,3.0,411,Near North Side,8,Entire home/apt
+5356,2.0,2.0,136,Near North Side,4,Entire home/apt
+5357,2.0,5.0,376,Near North Side,10,Entire home/apt
+5358,1.0,1.0,150,Near North Side,2,Entire home/apt
+5360,3.0,3.0,395,Near North Side,7,Entire home/apt
+5361,1.0,1.0,159,Near North Side,2,Entire home/apt
+5362,2.0,3.0,219,Near North Side,5,Entire home/apt
+5363,1.0,1.0,127,Near North Side,2,Entire home/apt
+5364,2.0,2.0,179,Near North Side,4,Entire home/apt
+5365,3.0,4.0,395,Near North Side,7,Entire home/apt
+5366,1.0,1.0,119,Near North Side,2,Entire home/apt
+5367,1.0,1.0,189,Near North Side,2,Entire home/apt
+5368,2.0,2.0,188,Near North Side,4,Entire home/apt
+5369,1.0,1.0,199,Near North Side,2,Entire home/apt
+5370,1.0,1.0,139,Near North Side,2,Entire home/apt
+5371,1.0,1.0,88,Near North Side,2,Entire home/apt
+5372,3.0,5.0,434,Near North Side,11,Entire home/apt
+5373,1.0,2.0,114,Near North Side,4,Entire home/apt
+5375,1.0,1.0,63,Near North Side,2,Entire home/apt
+5376,1.0,1.0,105,Near North Side,4,Entire home/apt
+5378,2.0,2.0,141,Near North Side,4,Entire home/apt
+5379,1.0,3.0,140,Near North Side,5,Entire home/apt
+5380,1.0,2.0,106,Near North Side,4,Entire home/apt
+5381,1.0,1.0,131,Near North Side,2,Entire home/apt
+5382,1.0,1.0,102,Near North Side,2,Entire home/apt
+5383,1.0,2.0,140,Near North Side,4,Entire home/apt
+5384,2.0,2.0,79,Near North Side,4,Entire home/apt
+5385,1.0,1.0,85,Near North Side,2,Entire home/apt
+5386,3.0,8.0,476,Near North Side,10,Entire home/apt
+5387,1.0,1.0,153,Near North Side,2,Entire home/apt
